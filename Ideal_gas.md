@@ -36,7 +36,7 @@ $$\frac{mv^2}{2} = \frac{3 k_B T}{2}$$
 
 $$P V_m = \frac{2 }{3} N_A \frac{mv^2}{2} = \frac{2 }{3} N_A  \frac{3 k_B T}{2} = N_A k_B T$$
 
-这里：$ N_A k_B = R$，即普遍适气体常数。
+这里：$N_A k_B = R$，即普遍适气体常数。
 
 假设有$\mu$摩尔气体，$V = \mu V_m$
 
