@@ -16,7 +16,7 @@ $$\frac{mv^2}{2} = \frac{3kT}{2}$$
 
 $$\frac{nV}{6} (2mv) = \frac{n V mv}{3}$$
 
-考虑冲量定理：
+考虑[冲量定理](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Mechanics/Impulse.md)：
 
 $$F \Delta t = \frac{nS v \Delta t (mv)}{3}$$
 
