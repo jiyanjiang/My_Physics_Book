@@ -17,4 +17,5 @@ _热学_
 _数学_
 
 - [从自然数到复数](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Mathematics/Number_and_quantity.md)
+- [从函数到微分](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Mathematics/Function_and_Differential.md)
 
