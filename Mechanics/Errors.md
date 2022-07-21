@@ -80,7 +80,9 @@ $$\vec R = \vec R_1 + \vec R_2$$
 
 我们先求$\left| \vec R \right|^2$，
 
-$$\left| \vec R \right|^2 = \vec R \cdot \vec R \\ = \left(\vec R_1 + \vec R_2  \right) \cdot \left(\vec R_1 + \vec R_2  \right) \\ = \vec R_1 \cdot \vec R_1 +  \vec R_2 \cdot \vec R_2  + 2 \vec R_1 \cdot \vec R_2$$
+$$\left| \vec R \right|^2 = \vec R \cdot \vec R \\ = \left(\vec R_1 + \vec R_2  \right) \cdot \left(\vec R_1 + \vec R_2  \right)$$
+
+$${} = \vec R_1 \cdot \vec R_1 +  \vec R_2 \cdot \vec R_2  + 2 \vec R_1 \cdot \vec R_2$$
 
 其中交叉项
 
