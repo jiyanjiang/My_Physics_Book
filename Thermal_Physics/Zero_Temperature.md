@@ -27,4 +27,4 @@ $$W = \frac{Q_C}{\eta} \to \infty$$
 
 ![image](https://user-images.githubusercontent.com/6512579/180339814-8e75c2df-d7fc-4cfd-acd1-d518bca70173.png)
 
-如图偏上方中央有个小黑点，这里样品温度可达到低于1nK (1 \times 10^{-9}K)。
+如图偏上方中央有个小黑点，这里样品温度可达到低于1nK ($1 \times 10^{-9}K$)。
