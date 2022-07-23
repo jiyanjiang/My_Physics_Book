@@ -90,6 +90,10 @@ $$k_B T_c \approx 1.13 \hbar \omega_D \exp \left(-\frac{1}{g(0) V}\right) $$
 
 $$ \Delta(0) \approx 2 \hbar \omega_D \exp \left( - \frac{1}{g(0)V} \right)  $$
 
-因此，能隙($2\Delta(0)$)与$T_c$之比为：
+因此，能隙(Energy gap)与$T_c$之比为：
 
 $$ \frac{2 \Delta(0) }{ k_B T_c } = \frac{4}{1.13} \approx 3.54$$
+
+# Ref
+
+李正中《固体理论》
