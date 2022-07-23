@@ -76,7 +76,7 @@ $$ 1 = g(0) V \ln \left[  \left(  \frac{\hbar \omega_D}{k_B T_c} \right) \left( 
 
 这里$\gamma \approx 0.5772$，是欧拉常数。
 
-$$ \frac{2 e^\gamma}{\pi } \approx 1.13 $$
+$$ \frac{2 e^\gamma}{\pi } \approx 1.134 $$
 
 从而
 
@@ -92,7 +92,7 @@ $$ \Delta(0) \approx 2 \hbar \omega_D \exp \left( - \frac{1}{g(0)V} \right)  $$
 
 因此，能隙(Energy gap)与$T_c$之比为：
 
-$$ \frac{2 \Delta(0) }{ k_B T_c } = \frac{4}{1.13} \approx 3.54$$
+$$ \frac{2 \Delta(0) }{ k_B T_c } = \frac{4}{1.134} \approx 3.53$$
 
 # Ref
 
