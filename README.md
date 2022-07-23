@@ -15,6 +15,10 @@ _热学_
 - [理想气体的压力](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Thermal_Physics/Ideal_gas.md)
 - [为什么不能达到绝对零度？](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Thermal_Physics/Zero_Temperature.md)
 
+_固体物理_
+
+- [超导能隙方程](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Solid_State_Physics/BCS_Energy_gap_equation.md)
+
 _数学_
 
 - [从自然数到复数](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Mathematics/Number_and_quantity.md)
