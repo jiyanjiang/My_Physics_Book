@@ -19,6 +19,10 @@ _热学_
 - [理想气体的压力](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Thermal_Physics/Ideal_gas.md)
 - [为什么不能达到绝对零度？](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Thermal_Physics/Zero_Temperature.md)
 
+_量子物理_
+
+- [太阳核心温度估算](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Quantum/Temperature_Sun_Core.md)
+
 _固体物理_
 
 - [玻尔-范莱文定理](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Solid_State_Physics/Bohr%E2%80%93Van_Leeuwen_theorem.md)
