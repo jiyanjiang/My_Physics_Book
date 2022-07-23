@@ -54,3 +54,6 @@ $$ \Delta(T) = V \sum\limits_k \left\langle  c_{-k}c_k \right\rangle_T $$
 
 $$ \Delta(T) = \sum\limits_k u_k v_k \left( 1- \left\langle \alpha^\dagger_k \alpha_k \right\rangle_T - \left\langle \alpha^\dagger_{-k} \alpha_{-k} \right\rangle_T \right) $$
 
+超导元激发满足费米统计
+
+$$ \Delta(T) = V \sum\limits_k u_k v_k \left[ 1 - 2 f(\xi_k) \right] $$
