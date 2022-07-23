@@ -46,5 +46,11 @@ $$ \xi_k = \sqrt{ \epsilon_k + \Delta^2 } $$
 
 序参量$\Delta$的物理含义是能隙（Energy gap）。
 
+考虑有限温度情形（$T > 0$），能隙方程为：
 
+$$ \Delta(T) = V \sum\limits_k \left\langle  c_{-k}c_k \right\rangle_T $$
+
+把线性变换代入上式中的电子算符$c_{-k} c_k$，得到：
+
+$$ \Delta(T) = \sum\limits_k u_k v_k \left( 1- \left\langle \alpha^\dagger_k \alpha_k \right\rangle_T - \left\langle \alpha^\dagger_{-k} \alpha_{-k} \right\rangle_T \right) $$
 
