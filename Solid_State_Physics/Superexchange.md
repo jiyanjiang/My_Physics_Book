@@ -101,15 +101,11 @@ $$ - \frac{4t^2}{U} S_1^z S_2^z $$
 
 综合以上（1）（2）（3）过程，考虑2阶微扰后，有效哈密顿量是：
 
-$$ H^{eff} = \frac{4t^2}{U} \hat S_1 \cdot \hat S_2 $$
+$$ H_{eff} = \frac{4t^2}{U} \hat S_1 \cdot \hat S_2 $$
 
 展开：
 
 $$H_{eff} = \frac{2t^2}{U}\left( S_1^- S_2^+ + S_1^+ S_2^- \right) + \frac{4t^2}{U} S_1^z S_2^z $$
-
-即：
-
-$$H_{eff} = \frac{t^2 }{U } S_1 \cdot S_2$$
 
 
 ## Reference
