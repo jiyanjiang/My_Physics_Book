@@ -57,3 +57,8 @@ $$ \Delta(T) = \sum\limits_k u_k v_k \left( 1- \left\langle \alpha^\dagger_k \al
 超导元激发满足费米统计
 
 $$ \Delta(T) = V \sum\limits_k u_k v_k \left[ 1 - 2 f(\xi_k) \right] $$
+
+把$u_k, v_k$的表达式代入上式，得到：
+
+$$ 1 = \frac{1}{2}V \sum\limits_k \frac{ \tanh \left(\frac{1}{2} \beta \xi_k \right)  }{ \xi_k } $$
+
