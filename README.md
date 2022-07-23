@@ -2,9 +2,11 @@
 
 All my notes on physics.
 
+- [初学者应该如何学物理](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Mechanics/For_beginners.md)
+- [物理学中的公式是怎么来的？](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Physics_formulas.md)
+
 _力学_
 
-- [初学者应该如何学物理](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Mechanics/For_beginners.md)
 - [为什么古代的观星仪器要越大越好](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Mechanics/Errors.md)
 - [火箭方程](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Mathematics/Rocket_equation.md)
 - [简谐振子：穿越地心](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Mechanics/Earth_express.md)
