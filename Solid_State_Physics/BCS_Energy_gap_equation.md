@@ -44,7 +44,9 @@ $$ H = \sum\limits_k \xi_k \left( \alpha^\dagger \alpha + \beta^\dagger \beta  \
 
 $$ \xi_k = \sqrt{ \epsilon_k + \Delta^2 } $$
 
-序参量$\Delta$的物理含义是能隙（Energy gap）。
+序参量$\Delta$是能隙（Energy gap）的一半。
+
+$$Gap = 2 \Delta$$
 
 考虑有限温度情形（$T > 0$），能隙方程为：
 
@@ -62,3 +64,32 @@ $$ \Delta(T) = V \sum\limits_k u_k v_k \left[ 1 - 2 f(\xi_k) \right] $$
 
 $$ 1 = \frac{1}{2}V \sum\limits_k \frac{ \tanh \left(\frac{1}{2} \beta \xi_k \right)  }{ \xi_k } $$
 
+$T = T_c$ 时，$\Delta(T_c)=0$，能隙方程为：
+
+$$ 1 = g(0) V \int_0^{\hbar \omega_D} d \epsilon \frac{ \tanh \frac{\epsilon \beta_c }{2} }{\epsilon} $$
+
+这里$g(0)$是费米面附近的态密度。
+
+考虑$\hbar \omega_D \ll k_B T$, 积分上限取$+ \infty$，积分化简可得：
+
+$$ 1 = g(0) V \ln \left[  \left(  \frac{\hbar \omega_D}{k_B T_c} \right) \left( \frac{ 2 e^\gamma }{ \pi }  \right) \right] $$
+
+这里$\gamma \approx 0.5772$，是欧拉常数。
+
+$$ \frac{2 e^\gamma}{\pi } \approx 1.13 $$
+
+从而
+
+$$ k_B T_c = \frac{2 e^\gamma }{\pi } \hbar \omega_D \exp \left( - \frac{1}{ g(0)V } \right) $$
+
+即
+
+$$k_B T_c \approx 1.13 \hbar \omega_D \exp \left(-\frac{1}{g(0) V}\right) $$
+
+考虑$T=0 K$时的超导能隙$\Delta(0)$：
+
+$$ \Delta(0) \approx 2 \hbar \omega_D \exp \left( - \frac{1}{g(0)V} \right)  $$
+
+因此，能隙($2\Delta(0)$)与$T_c$之比为：
+
+$$ \frac{2 \Delta(0) }{ k_B T_c } = \frac{4}{1.13} \approx 3.53$$
