@@ -21,6 +21,7 @@ _热学_
 
 _固体物理_
 
+- [玻尔-范莱文定理](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Solid_State_Physics/Bohr%E2%80%93Van_Leeuwen_theorem.md)
 - [超导能隙方程](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Solid_State_Physics/BCS_Energy_gap_equation.md)
 
 _数学_
