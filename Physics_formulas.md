@@ -35,7 +35,7 @@ $$ \nabla \times \textbf{H } =\textbf{J} + \frac{\partial \textbf{D } }{\partial
 
 其次物理学是西方数学-哲学传统的产物，自毕达哥拉斯和柏拉图起，西方思想家就认为可以用数学（公式，数列等）表达的关于世界的模型是更可靠的知识，相对而言实际的经验是不可靠的，追求知识主要是发现可以用数学语言表达的天文学、声学等。
 
-<img src="https://user-images.githubusercontent.com/6512579/180590421-18644fff-6434-43ea-93dd-a33701d18df3.png" width="300">
+<img src="https://user-images.githubusercontent.com/6512579/180590421-18644fff-6434-43ea-93dd-a33701d18df3.png" width="400">
 
 _毕达哥拉斯在研究音乐_
 
