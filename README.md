@@ -22,6 +22,8 @@ _热学_
 
 _量子物理_
 
+
+- [量子隧穿](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Quantum/Tunneling.md)
 - [太阳核心温度估算](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Quantum/Temperature_Sun_Core.md)
 - [量子不可克隆原理](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Quantum/Non_Clone_Theorem.md)
 
