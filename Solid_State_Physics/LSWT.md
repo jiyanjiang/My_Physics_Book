@@ -105,4 +105,10 @@ C Kittel, _Introduction to Solid State Physics_
 
 $$ \frac{\Delta M}{M(0)} = \frac{0.0587}{QS} \left( \frac{k_B T}{2SJ} \right)^{3/2} $$
 
-$$ A = QJS^2/a $$
+Use: $A = QJS^2/a$, Then
+
+$$\frac{M_S(T)}{M_S(0)} = 1 - 0.0587 \sqrt{QS} \left( \frac{k_B T}{2 A(0) a} \right)^{3/2}$$
+
+- [exchange stiffness in ferromagnetic materials](https://www.researchgate.net/post/What_is_exchange_stiffness_in_ferromagnetic_materials_and_what_is_the_role_of_exchange_stiffness)
+
+
