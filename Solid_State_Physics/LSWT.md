@@ -95,7 +95,7 @@ $$ S = \frac{M_S(0) a^3}{ Q g \mu_B } $$
 
 https://journals.aps.org/prb/pdf/10.1103/PhysRevB.66.144426
 
-unit cell   | $\alpha$ | Q | 
+unit cell   | $\alpha$ | Q | 0.0587/Q
 --- | --- | --- | ---
 sc | 0.117/2 | 1 | 0.0587
 bcc | 0.117/4 | 2 | 0.0587/2
