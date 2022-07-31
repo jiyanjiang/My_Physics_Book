@@ -100,3 +100,7 @@ unit cell   | $\alpha$ | Q | 0.0587/Q
 sc | 0.117/2 | 1 | 0.0587
 bcc | 0.117/4 | 2 | 0.0587/2
 fcc | 0.117/8 | 4 | 0.0587/4
+
+C Kittel, _Introduction to Solid State Physics_
+
+$$ \frac{\Delta M}{M(0)} = \frac{0.0587}{QS} \left( \frac{k_B T}{2SJ} \right)^{3/2} $$
