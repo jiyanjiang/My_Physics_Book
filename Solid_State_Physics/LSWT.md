@@ -92,3 +92,5 @@ $$ M_S(0) = \frac{Q}{a^3} g \mu_B S$$
 spin quantum number:
 
 $$ S = \frac{M_S(0) a^3}{ Q g \mu_B } $$
+
+https://journals.aps.org/prb/pdf/10.1103/PhysRevB.66.144426
