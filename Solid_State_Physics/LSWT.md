@@ -124,8 +124,7 @@ $$ (...)^{2/3} = (...)^{2/3} $$
 
 $$ 0.0587^{2/3}(QS)^{1/3} \frac{k T}{2A(T)a} = \left[ 1 - \frac{M_S(T)}{M_S(0)} \right]^{2/3} $$
 
-
-
 $$\frac{1}{T} \frac{A(T)}{A(0)} = \left[ 1 - \frac{M_S(T)}{M_S(0)} \right]^{-2/3} $$
 
+$$\frac{A(T)}{A(0)} = T \left[ 1 - \frac{M_S(T)}{M_S(0)} \right]^{-2/3}$$
 
