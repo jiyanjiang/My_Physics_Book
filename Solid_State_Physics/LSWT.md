@@ -59,8 +59,9 @@ $$A(0) \approx \frac{J S^2 Z_c }{a_0}  $$
 
 $Z_c$ is the number of atoms per unit cell
 
-unit cell | $Z_c$
---- | ---
-sc | 1
-bcc | 2 
-fcc | 4
+unit cell | $Z_c$ | A
+--- | --- | ---
+sc | 1 |
+bcc | 2 |
+fcc | 4 |
+hcp |  | $2 \sqrt{2} J S^2/a$ 
