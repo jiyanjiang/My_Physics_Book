@@ -69,3 +69,26 @@ hcp |  | $2 \sqrt{2} J S^2/a$
 the exchange length $l_{ex}$
 
 $$l_{ex} = \sqrt{\frac{A}{\mu_0 M_s^2}}$$
+
+## Magnetization
+
+$$ \left\langle n_k \right\rangle_T = \frac{1}{e^{\hbar \omega_k / kT} - 1} $$
+
+$$\frac{1}{N} \sum\limits_k \left\langle n_k \right\rangle_T = \alpha \left( \frac{k_B T }{2SJ} \right)^{3/2}  $$
+
+$$ M(T) = g \mu_B \sum\limits_l \left( S - \left\langle n_l \right\rangle_T \right) $$
+
+
+$$ = N g \mu_B S - g \mu_B \sum\limits_k \left\langle n_k \right\rangle_T  $$
+
+$$ = M(0) \left( 1  - \frac{\alpha}{S} \left( \frac{k_B T}{ 2 SJ }  \right)^{3/2} \right) $$
+
+$$ M(0) = N g \mu_B S $$
+
+
+$$ M_S(0) = \frac{Q}{a^3} g \mu_B S$$
+
+
+spin quantum number:
+
+$$ S = \frac{M_S(0) a^3}{ Q g \mu_B } $$
