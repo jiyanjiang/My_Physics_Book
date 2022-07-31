@@ -61,7 +61,7 @@ $Z_c$ is the number of atoms per unit cell
 
 unit cell | $Z_c$ | A
 --- | --- | ---
-sc | 1 |
-bcc | 2 |
-fcc | 4 |
+sc | 1 | $J S^2/a$
+bcc | 2 | $2 J S^2/a$
+fcc | 4 | $4 J S^2/a$
 hcp |  | $2 \sqrt{2} J S^2/a$ 
