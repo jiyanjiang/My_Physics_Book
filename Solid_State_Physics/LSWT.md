@@ -128,3 +128,8 @@ $$\frac{1}{T} \frac{A(T)}{A(0)} = \left[ 1 - \frac{M_S(T)}{M_S(0)} \right]^{-2/3
 
 $$\frac{A(T)}{A(0)} = T \left[ 1 - \frac{M_S(T)}{M_S(0)} \right]^{-2/3}$$
 
+### Ref
+
+Temperature dependence of the exchange stiffness in FePd(001) thin films: Deviation from the empirical law $A(T) \propto M^2(S)$ at intermediate temperatures
+
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.77.224425
