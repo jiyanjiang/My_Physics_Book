@@ -43,9 +43,9 @@ For cobalt, $D_{sw} = 8.0 \times 10^{-40 } J m^2$ (500 meV \AA^2)
 
 Exchange stiffness ($A_ex$) was obtained from the best-fit based on the Bloch-3/2 law:
 
-$$ \frac{M_0 - M_T }{M_0} = \frac{0.0587 }{\nu} \left( \frac{k_B T}{2Js} \right)^{3/2} $$
+$$ \frac{M_0 - M_T }{M_0} = \frac{0.0587 }{Z_c} \left( \frac{k_B T}{2Js} \right)^{3/2} $$
 
-$\nu = 1, 2, 4$ for SC, BCC, or FCC lattice.
+$Z_c = 1, 2, 4$ for SC, BCC, or FCC lattice.
 
 The best way to derive $A_{ex}$ (exchange stiffness) is from $D_{sw}$,
 
