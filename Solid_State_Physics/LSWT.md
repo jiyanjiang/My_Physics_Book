@@ -104,3 +104,5 @@ fcc | 0.117/8 | 4 | 0.0587/4
 C Kittel, _Introduction to Solid State Physics_
 
 $$ \frac{\Delta M}{M(0)} = \frac{0.0587}{QS} \left( \frac{k_B T}{2SJ} \right)^{3/2} $$
+
+$$ A = QJS^2/a $$
