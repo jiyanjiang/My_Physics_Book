@@ -65,3 +65,7 @@ sc | 1 | $J S^2/a$
 bcc | 2 | $2 J S^2/a$
 fcc | 4 | $4 J S^2/a$
 hcp |  | $2 \sqrt{2} J S^2/a$ 
+
+the exchange length $l_{ex}$
+
+$$l_{ex} = \sqrt{\frac{A}{\mu_0 M_s^2}}$$
