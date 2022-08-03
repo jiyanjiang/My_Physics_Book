@@ -39,5 +39,4 @@ _数学_
 
 支持本项目，请加入我的星球。
 
-![image](https://user-images.githubusercontent.com/6512579/182602383-0cb7ba29-73e7-4524-9498-676693c7ddc6.png)
-
+<img src="https://user-images.githubusercontent.com/6512579/182602383-0cb7ba29-73e7-4524-9498-676693c7ddc6.png" width="50%">
