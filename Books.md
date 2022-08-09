@@ -2,6 +2,10 @@
 
 _Works by all physicists!_
 
+## George Gamow
+
+
+
 ## Leon N. Cooper
 
 - An Introduction To The Meaning And Structure Of Physics
