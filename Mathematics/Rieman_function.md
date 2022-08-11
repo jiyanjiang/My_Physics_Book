@@ -37,6 +37,6 @@ $$\int_0^\infty \frac{x^{3/2}}{e^x - 1 } dx = \Gamma (5/2)\zeta(5/2) = 1.3415 \t
 
 For s = 1
 
-$$\int_0^\infty \frac{x^{0}}{e^x - 1 } dx = \Gamma (1)\zeta(1) \to infty$$
+$$\int_0^\infty \frac{x^{0}}{e^x - 1 } dx = \Gamma (1)\zeta(1) \to \infty$$
 
-$$\zeta(1) \to infty, \Gamma(1) = 1$$
+$$\zeta(1) \to \infty, \Gamma(1) = 1$$
