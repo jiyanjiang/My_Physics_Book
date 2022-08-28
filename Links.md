@@ -4,6 +4,8 @@
 
 https://www.wolframalpha.com/
 
+https://www.symbolab.com/
+
 ## Ref
 
 - [ZH Lib](https://zh.z-lib.org/) 中文图书
