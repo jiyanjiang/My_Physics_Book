@@ -6,6 +6,8 @@ https://physics.aps.org/
 
 https://physicsworld.com/
 
+https://physicstoday.scitation.org/
+
 ## 综合
 
 https://www.nature.com/news
