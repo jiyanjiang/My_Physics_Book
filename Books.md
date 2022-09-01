@@ -6,6 +6,8 @@ _Works by all physicists!_
 
 ![image](https://user-images.githubusercontent.com/6512579/183575045-1cff5f78-2325-4507-b875-1bc6a7d11185.png)
 
+- My world line; an informal autobiography.
+
 
 
 
