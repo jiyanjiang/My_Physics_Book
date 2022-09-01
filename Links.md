@@ -2,6 +2,8 @@
 
 ## Physics
 
+https://www.nature.com/nphys/
+
 https://physics.aps.org/
 
 https://physicsworld.com/
