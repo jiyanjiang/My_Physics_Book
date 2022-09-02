@@ -3,7 +3,7 @@
 All my notes on physics.
 
 - [普通人为什么要学物理？](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Education/Learn_physics.md)
-- [初学者应该如何学物理](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Education/For_beginners.md)
+- [初学者应该如何学物理？](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Education/For_beginners.md)
 - [物理学中的公式是怎么来的？](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Education/Physics_formulas.md)
 
 _力学_
