@@ -1,3 +1,13 @@
+## 0906-2022
+
+### Space
+
+![image](https://user-images.githubusercontent.com/6512579/188497485-4baf1cb9-bc2b-487f-9f46-af710a34ae8c.png)
+
+- [Astronauts' blood shows signs of DNA mutations due to spaceflight](https://www.space.com/astronaut-spaceflight-cancer-dna-mutations-study)
+
+
+
 ## 0902-2022
 
 ### Math
