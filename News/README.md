@@ -2,6 +2,8 @@
 
 ### Magnonics
 
+- [Multiferroics Are a Spintronics Game Changer](https://physics.aps.org/articles/v15/124)
+
 - [Nonvolatile Electric Field Control of Thermal Magnons in the Absence of an Applied Magnetic Field](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.087601)
 
 - [Dissipationless Multiferroic Magnonics](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.157203)
