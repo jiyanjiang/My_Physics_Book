@@ -6,7 +6,7 @@
 
 - [A simple approach to the Landau–Zener formula](https://iopscience.iop.org/article/10.1088/0143-0807/31/2/016/pdf)
 
-- [Spin convertance at magnetic interfaces](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.214424), s-d exchange model
+- [Spin convertance at magnetic interfaces](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.214424), s-d exchange model, spin hall effect, inverse spin hall effect
 
 ## 0908-2022
 
