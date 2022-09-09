@@ -1,8 +1,16 @@
+
+
+
+
+## 0909-2022
+
+- [A simple approach to the Landau–Zener formula](https://iopscience.iop.org/article/10.1088/0143-0807/31/2/016/pdf)
+
+- [Spin convertance at magnetic interfaces](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.214424), s-d exchange model
+
 ## 0908-2022
 
-
-![image](https://user-images.githubusercontent.com/6512579/189085330-a1f5b152-9866-4270-a550-20d58d1b6c0f.png)
-
+![Pale blue dot](https://user-images.githubusercontent.com/6512579/189085330-a1f5b152-9866-4270-a550-20d58d1b6c0f.png)
 
 ### Magnonics
 
