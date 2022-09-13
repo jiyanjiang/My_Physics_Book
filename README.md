@@ -44,6 +44,7 @@ _数学_
 
 <img src="https://user-images.githubusercontent.com/6512579/188053805-ef00bd01-9c5d-4df0-9c6b-bd74c4db9cc4.png" width="50%">
 
+![image](https://user-images.githubusercontent.com/6512579/189812986-d7ed1583-8f37-4028-973c-befe6a57ba5a.png)
 ---
 
 本作品采用[知识共享署名4.0国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)进行许可。
