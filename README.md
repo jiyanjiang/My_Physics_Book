@@ -28,7 +28,7 @@ _量子物理_
 - [太阳核心温度估算](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Quantum/Temperature_Sun_Core.md)
 - [量子不可克隆原理](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Quantum/Non_Clone_Theorem.md)
 
-[... More](https://github.com/jiyanjiang/My_Physics_Book/tree/main/Quantum)
+    [... More](https://github.com/jiyanjiang/My_Physics_Book/tree/main/Quantum)
 
 _固体物理_
 
