@@ -7,7 +7,7 @@ _Works by all physicists!_
 - Cosmos
 - Pale Blue Dot: A Vision of the Human Future in Space
 
-## Hugh Everett III
+## Hugh Everett III (1930-1982)
 
 - The Many Worlds of Hugh Everett III
 
