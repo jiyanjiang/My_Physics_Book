@@ -2,6 +2,10 @@
 
 _Works by all physicists!_
 
+## David Bohm (1917-1992)
+
+- Infinite Potential: The Life and Times of David Bohm
+
 ## Carl Sagan
 
 - Cosmos
