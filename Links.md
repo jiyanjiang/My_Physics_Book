@@ -43,3 +43,4 @@ https://www.overleaf.com/project
 - [Sci-Hub](https://sci-hub.se/) 英文论文
 - [arxiv](https://arxiv.org/) 预印本文库
 - [doi2bib](https://www.doi2bib.org/) DOI to Bib
+- [Download Youtube video](https://zh.savefrom.net/166/)
