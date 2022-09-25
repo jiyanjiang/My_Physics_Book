@@ -1,3 +1,12 @@
+# My reading logs (open)
+
+## 0925-2022
+
+- [Correlation between Exchange Bias and Pinned Interfacial Spins](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.91.017203)
+
+![image](https://user-images.githubusercontent.com/6512579/192141452-717a6988-5699-49d2-bd33-18ce381522ff.png)
+
+
 ## 0909-2022
 
 - [A simple approach to the Landau–Zener formula](https://iopscience.iop.org/article/10.1088/0143-0807/31/2/016/pdf)
