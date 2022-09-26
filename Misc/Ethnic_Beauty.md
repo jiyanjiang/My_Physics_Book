@@ -35,6 +35,21 @@ _Tuvan woman_
 
 ![image](https://user-images.githubusercontent.com/6512579/192253948-bd2c92f2-d95b-42b1-bcc6-277a8a498ffa.png)
 
+_Uyghur girl_
+
+![image](https://user-images.githubusercontent.com/6512579/192255957-8c81b621-94d5-4393-a0db-531ffe840637.png)
+
+![image](https://user-images.githubusercontent.com/6512579/192256169-ecd2b2ed-0cc2-4d18-b7e3-7db4934f242a.png)
+
+
+
+
+
+_Uzbekistan_
+
+![image](https://user-images.githubusercontent.com/6512579/192255156-3b334611-90a3-4499-a762-142e87aec266.png)
+
+
 
 _Yakut people of Siberia_
 
