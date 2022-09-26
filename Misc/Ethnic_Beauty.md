@@ -1,3 +1,7 @@
+_Afghan_
+
+![image](https://user-images.githubusercontent.com/6512579/192257392-30358bbc-332d-4d9d-9c1d-ad99ebdcfd14.png)
+
 
 
 _Armenia_
@@ -24,11 +28,24 @@ _Georgian beauty_
 
 ![image](https://user-images.githubusercontent.com/6512579/192253518-620921af-536e-44c4-a7ea-b6cc673ababe.png)
 
+
+_Mongolian Girls_
+
+![image](https://user-images.githubusercontent.com/6512579/192257042-4836129e-83f9-4ecd-b7c1-e409b4670d04.png)
+
+
+
 _Turkish_
 
 ![image](https://user-images.githubusercontent.com/6512579/192254376-2bea6a18-0909-4629-90c8-1e9bffaf9eea.png)
 
 ![image](https://user-images.githubusercontent.com/6512579/192254438-a3fc71d2-6818-4b5b-bf88-979ff89986ef.png)
+
+
+_Tajikistan_
+
+![image](https://user-images.githubusercontent.com/6512579/192256601-1cb22466-04f3-4601-b59e-c19ea3272f4b.png)
+
 
 
 _Tuvan woman_
