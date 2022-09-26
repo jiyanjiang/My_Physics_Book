@@ -33,4 +33,4 @@ $$\frac{1}{2} mv_2^2 + mg h_2 = \frac{1}{2} mv_1^2 + mg h_1$$
 1. 选取势能为0的参照点 $V(0)$；
 2. 由位置 $x$ 处开始运动到 $0$ 处，保守力 $F(x)$ 做功 $W(x \to 0) = \int_x^0 F(x) d x = - \Delta V = V(x) - V(0)$
 
-保守力: $F(x) = - \frac{\partial V(x)}{\partial x}$
+保守力(Conservative force): $F(x) = - \frac{\partial V(x)}{\partial x}$
