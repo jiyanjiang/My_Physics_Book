@@ -20,7 +20,7 @@ $$\frac{nV}{6} (2mv) = \frac{n V mv}{3}$$
 
 $$F \Delta t = \frac{nS v \Delta t (mv)}{3}$$
 
-压强$P$为
+压强 $P$ 为
 
 $$P = \frac{F}{S} =\frac{n mv^2}{ 3 }$$
 
