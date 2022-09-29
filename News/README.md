@@ -1,5 +1,9 @@
 # My reading logs (open)
 
+## 0929-2022
+
+- [Quantum entanglement between excitons in two-dimensional materials](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.104304)
+
 ## 0925-2022
 
 - [Correlation between Exchange Bias and Pinned Interfacial Spins](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.91.017203)
