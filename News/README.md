@@ -1,5 +1,9 @@
 # My reading logs (open)
 
+## 0930-2022
+
+- Video: [Controlling 2D spins](https://www.youtube.com/watch?v=nE-btjrZnBc)
+
 ## 0929-2022
 
 - [Quantum entanglement between excitons in two-dimensional materials](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.104304)
