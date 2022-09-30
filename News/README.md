@@ -2,7 +2,7 @@
 
 ## 0930-2022
 
-- Video: [Controlling 2D spins](https://www.youtube.com/watch?v=nE-btjrZnBc)
+- Video: [Controlling Spins in 2D Layered Materials](https://www.youtube.com/watch?v=nE-btjrZnBc)
 
 ## 0929-2022
 
