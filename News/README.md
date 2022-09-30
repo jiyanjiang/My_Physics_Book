@@ -3,6 +3,9 @@
 ## 0930-2022
 
 - Video: [Controlling Spins in 2D Layered Materials](https://www.youtube.com/watch?v=nE-btjrZnBc)
+- Post: [Why do we use Acetone to clean labwares?](http://www.madsci.org/posts/archives/2003-08/1060116066.Ch.r.html)
+
+> Because it is water miscible it rinses away water from equipment too, thereby leaving equipment with less water on them and this means they will dry much faster than using water alone.
 
 ## 0929-2022
 
