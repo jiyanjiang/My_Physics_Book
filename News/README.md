@@ -7,6 +7,8 @@
 
 > Because it is water miscible it rinses away water from equipment too, thereby leaving equipment with less water on them and this means they will dry much faster than using water alone.
 
+- [Progress and Prospects for the Second Quantum Revolution: The Race to Build “Impossible” Computers](https://girvin.sites.yale.edu/progress-and-prospects-second-quantum-revolution-race-build-impossible-computers)
+
 ## 0929-2022
 
 - [Quantum entanglement between excitons in two-dimensional materials](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.104304)
