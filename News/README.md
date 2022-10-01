@@ -2,7 +2,9 @@
 
 ## 1001-2022
 
-- [Feynman Stories](https://www.feynmanlectures.caltech.edu/info/stories/lester_ingber_story.html)
+- Lester Ingber: [Feynman Stories](https://www.feynmanlectures.caltech.edu/info/stories/lester_ingber_story.html)
+
+> When I was an Assistant Professor at SUNY, Stony Brook, I met Feynman again at a conference on partons in 1969, and I drove him back to the airport afterwards. He asked how I liked his lecture, e.g., relative to the others like C.N. Yang's. He was very appreciative of my remarks: I said that, unlike Yang who brought to bear a sophisticated arsenal of mathematics to develop some aspects of partons, his [Feynman's] lecture developed a coarse intuitive approach with minimal algebra -- but was an approach commensurate with the (lack of) knowledge of partons at that time, yet yielding more specificity of aspects of partons than the other lectures. I think that kind of approach was quintessential Feynman.
 
 ## 0930-2022
 
