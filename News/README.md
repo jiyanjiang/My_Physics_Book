@@ -1,5 +1,9 @@
 # My reading logs (open)
 
+## 1001-2022
+
+- [Feynman Stories](https://www.feynmanlectures.caltech.edu/info/stories/lester_ingber_story.html)
+
 ## 0930-2022
 
 - Video: [Controlling Spins in 2D Layered Materials](https://www.youtube.com/watch?v=nE-btjrZnBc)
