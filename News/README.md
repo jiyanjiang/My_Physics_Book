@@ -4,6 +4,7 @@
 
 - [Magnetic properties of devicelike cobalt/2D materials interfaces](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.014004)
 - [Progress and Prospects for the Second Quantum Revolution: The Race to Build “Impossible” Computers](https://girvin.sites.yale.edu/progress-and-prospects-second-quantum-revolution-race-build-impossible-computers)
+- [Proving that Quantum Entanglement is Real](https://pma.caltech.edu/news/proving-that-quantum-entanglement-is-real)
 
 ## 1001-2022
 
