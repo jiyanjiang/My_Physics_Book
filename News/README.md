@@ -1,5 +1,10 @@
 # My reading logs (open)
 
+## 1005-2022
+
+- [Magnetic properties of devicelike cobalt/2D materials interfaces](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.014004)
+- [Progress and Prospects for the Second Quantum Revolution: The Race to Build “Impossible” Computers](https://girvin.sites.yale.edu/progress-and-prospects-second-quantum-revolution-race-build-impossible-computers)
+
 ## 1001-2022
 
 - Lester Ingber: [Feynman Stories](https://www.feynmanlectures.caltech.edu/info/stories/lester_ingber_story.html)
