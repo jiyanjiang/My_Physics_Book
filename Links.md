@@ -16,6 +16,10 @@ https://www.nature.com/news
 
 https://www.science.org/news
 
+## Tech
+
+- [Wired](https://www.wired.com/)
+
 ## 航天
 
 https://www.nasa.gov/
