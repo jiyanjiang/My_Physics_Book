@@ -1,5 +1,14 @@
 # My reading logs (open)
 
+## 1014-2022
+
+- [https://arxiv.org/abs/2001.09496](Superconductivity, what the H? The emperor has no clothes)
+- _Robert B. Laughlin_: A Different Universe: Reinventing Physics from the Bottom Down
+- _Robert B. Laughlin_: [Proposed KAIST Investment Strategy](https://www.wsj.com/public/resources/documents/rebellion-laughlinproposal.pdf)
+- [As It Struggles to Change, School Mirrors Korea's Woes](https://www.wsj.com/articles/SB117798527844787708)
+- [Korea sends Laughlin packing](https://physicstoday.scitation.org/doi/full/10.1063/1.2218548), Physics Today 59, 6, 28 (2006);
+- [Robert B. Laughlin Weds Anita Perry, An Arts Therapist](https://www.nytimes.com/1978/04/23/archives/robert-b-laughlin-weds-anita-perry-an-arts-therapist.html)
+
 ## 1005-2022
 
 - [Magnetic properties of devicelike cobalt/2D materials interfaces](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.014004)
