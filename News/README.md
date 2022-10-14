@@ -2,7 +2,7 @@
 
 ## 1014-2022
 
-- [https://arxiv.org/abs/2001.09496](Superconductivity, what the H? The emperor has no clothes)
+- [Superconductivity, what the H? The emperor has no clothes](https://arxiv.org/abs/2001.09496)
 - _Robert B. Laughlin_: A Different Universe: Reinventing Physics from the Bottom Down
 - _Robert B. Laughlin_: [Proposed KAIST Investment Strategy](https://www.wsj.com/public/resources/documents/rebellion-laughlinproposal.pdf)
 - [As It Struggles to Change, School Mirrors Korea's Woes](https://www.wsj.com/articles/SB117798527844787708)
