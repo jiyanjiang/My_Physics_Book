@@ -1,5 +1,11 @@
 # My reading logs (open)
 
+## 1021-2022
+
+- [Ancient DNA reveals rapid natural selection during the Black Death](https://www.nature.com/articles/d41586-022-03160-2)
+- [XAS - Theory](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Spectroscopy/X-ray_Spectroscopy/XAS_-_Theory)
+
+
 ## 1014-2022
 
 - [Superconductivity, what the H? The emperor has no clothes](https://arxiv.org/abs/2001.09496)
