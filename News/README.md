@@ -1,5 +1,9 @@
 # My reading logs (open)
 
+## 1027-2022
+
+- Video: [A Brief History of Superconducting Quantum Computing](https://www.youtube.com/watch?v=xjlGL4Mvq7A)
+
 ## 1021-2022
 
 - [Ancient DNA reveals rapid natural selection during the Black Death](https://www.nature.com/articles/d41586-022-03160-2)
