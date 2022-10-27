@@ -4,6 +4,9 @@
 
 - Video: [A Brief History of Superconducting Quantum Computing](https://www.youtube.com/watch?v=xjlGL4Mvq7A)
 
+<img width="521" alt="截屏2022-10-27 08 45 48" src="https://user-images.githubusercontent.com/6512579/198165251-03a3f8a7-c3f5-485d-a4dc-5a5eec73983d.png">
+
+
 ## 1021-2022
 
 - [Ancient DNA reveals rapid natural selection during the Black Death](https://www.nature.com/articles/d41586-022-03160-2)
