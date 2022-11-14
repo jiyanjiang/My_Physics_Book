@@ -6,7 +6,7 @@
 
 ## 1027-2022
 
-- Software: [qiskit](https://qiskit.org/)
+- Software: [qiskit](https://qiskit.org/) / [Youtube Channel](https://www.youtube.com/c/qiskit)
 
 - Video: [A Brief History of Superconducting Quantum Computing](https://www.youtube.com/watch?v=xjlGL4Mvq7A)
 
