@@ -1,8 +1,12 @@
 # My reading logs (open)
 
+## 1114-2022
+
+- [An introductory Radar course](http://www.ll.mit.edu/outreach/radar-introduction-radar-systems-online-course)
+
 ## 1027-2022
 
-- Software: (qiskit)[https://qiskit.org/]
+- Software: [qiskit](https://qiskit.org/)
 
 - Video: [A Brief History of Superconducting Quantum Computing](https://www.youtube.com/watch?v=xjlGL4Mvq7A)
 
