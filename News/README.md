@@ -1,5 +1,9 @@
 # My reading logs (open)
 
+## 1210-2022
+
+- [Using Wolfram Language in Jupyter: A free alternative to Mathematica](https://nicoguaro.github.io/posts/wolfram_jupyter/)
+
 ## 1114-2022
 
 - [An introductory Radar course](http://www.ll.mit.edu/outreach/radar-introduction-radar-systems-online-course)
