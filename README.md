@@ -40,6 +40,11 @@ _数学_
 - [从自然数到复数](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Mathematics/Number_and_quantity.md)
 - [从函数到微分](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Mathematics/Function_and_Differential.md)
 
+_短评_
+
+- [2023](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Misc/Short_Comments_2023.md)
+- [2022](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Misc/Short_Comments_2022.md)
+
 支持本项目，请加入我的星球。
 
 <img src="https://user-images.githubusercontent.com/6512579/188053805-ef00bd01-9c5d-4df0-9c6b-bd74c4db9cc4.png" width="50%">
