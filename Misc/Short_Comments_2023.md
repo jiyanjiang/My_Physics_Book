@@ -54,5 +54,4 @@ PluS：你永远可以期待人类的勇气。
 6. 假如我们沿着这个方向前进（这几乎是必然的），其后果会是什么呢？
 
 
-
-【[返回](https://github.com/jiyanjiang/My_Physics_Book)】
+【[Year 2022](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Misc/Short_Comments_2022.md)】【[返回](https://github.com/jiyanjiang/My_Physics_Book)】
