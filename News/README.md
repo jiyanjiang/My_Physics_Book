@@ -1,5 +1,9 @@
 # My reading logs (open)
 
+## 0225-2023
+
+- [Book Event: Chris Miller's "Chip War: The Fight for the World's Most Critical Technology"](https://www.csis.org/events/book-event-chris-millers-chip-war-fight-worlds-most-critical-technology)
+
 ## 1210-2022
 
 - [Using Wolfram Language in Jupyter: A free alternative to Mathematica](https://nicoguaro.github.io/posts/wolfram_jupyter/)
