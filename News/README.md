@@ -3,6 +3,7 @@
 ## 0227-2023
 
 - [What Is Prompt Engineering?](https://www.youtube.com/watch?v=sztL7rp_TkY)
+- [Prompt Engineering](https://en.wikipedia.org/wiki/Prompt_engineering)
 - [PromptBase](https://promptbase.com/)
 
 
