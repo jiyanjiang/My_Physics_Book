@@ -1,5 +1,11 @@
 # My reading logs (open)
 
+## 0227-2023
+
+- [What Is Prompt Engineering?](https://www.youtube.com/watch?v=sztL7rp_TkY)
+- [PromptBase](https://promptbase.com/)
+
+
 ## 0225-2023
 
 - [Book Event: Chris Miller's "Chip War: The Fight for the World's Most Critical Technology"](https://www.csis.org/events/book-event-chris-millers-chip-war-fight-worlds-most-critical-technology)
