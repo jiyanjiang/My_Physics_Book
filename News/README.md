@@ -4,6 +4,7 @@
 
 - [What Is Prompt Engineering?](https://www.youtube.com/watch?v=sztL7rp_TkY)
 - [Prompt Engineering](https://en.wikipedia.org/wiki/Prompt_engineering)
+- [promptsource](https://github.com/bigscience-workshop/promptsource)
 - [PromptBase](https://promptbase.com/)
 
 
