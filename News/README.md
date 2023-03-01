@@ -4,6 +4,7 @@
 
 - [The Indian Trigonometry](https://www.youtube.com/watch?v=1s7V7Ai3Eaw)
 - [MAGE](https://www.mage.space/)
+- [Dezgo](https://dezgo.com/)
 
 
 ## 0227-2023
