@@ -1,5 +1,11 @@
 # My reading logs (open)
 
+## 0301-2023
+
+- [The Indian Trigonometry](https://www.youtube.com/watch?v=1s7V7Ai3Eaw)
+- [MAGE](https://www.mage.space/)
+
+
 ## 0227-2023
 
 - [What Is Prompt Engineering?](https://www.youtube.com/watch?v=sztL7rp_TkY)
