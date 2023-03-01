@@ -6,6 +6,8 @@
 - [MAGE](https://www.mage.space/)
 - [Dezgo](https://dezgo.com/)
 - [stable diffusion prompt guide](https://prompthero.com/stable-diffusion-prompt-guide)
+- [awesome stable diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
+
 
 
 ## 0227-2023
