@@ -7,8 +7,7 @@
 - [Dezgo](https://dezgo.com/)
 - [stable diffusion prompt guide](https://prompthero.com/stable-diffusion-prompt-guide)
 - [awesome stable diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
-
-
+- [prompt engineering course](https://prompthero.com/academy/prompt-engineering-course)
 
 ## 0227-2023
 
