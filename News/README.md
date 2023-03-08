@@ -4,6 +4,8 @@
 
 - [APS March 23: Observation of Room Temperature Superconductivity in Hydride at Near Ambient Pressure](https://www.youtube.com/watch?v=XhhvOMuLF94)
 - [Midgal Eliashberg Theory](https://docs.epw-code.org/doc/Midgal-EliashbergTheory.html)
+- [DIAS Group](https://labsites.rochester.edu/dias/)
+
 
 ## 0301-2023
 
