@@ -48,3 +48,4 @@ https://www.overleaf.com/project
 - [arxiv](https://arxiv.org/) 预印本文库
 - [doi2bib](https://www.doi2bib.org/) DOI to Bib
 - [Download Youtube video](https://ssyoutube.com/en43/youtube-video-downloader)
+- [Twitter video downloader](https://twittervideodownloader.com/)
