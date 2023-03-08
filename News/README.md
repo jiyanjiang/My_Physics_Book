@@ -1,5 +1,9 @@
 # My reading logs (open)
 
+## 0308-2023
+
+- [APS March 23: Observation of Room Temperature Superconductivity in Hydride at Near Ambient Pressure](https://www.youtube.com/watch?v=XhhvOMuLF94)
+
 ## 0301-2023
 
 - [The Indian Trigonometry](https://www.youtube.com/watch?v=1s7V7Ai3Eaw)
