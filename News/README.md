@@ -3,6 +3,7 @@
 ## 0308-2023
 
 - [APS March 23: Observation of Room Temperature Superconductivity in Hydride at Near Ambient Pressure](https://www.youtube.com/watch?v=XhhvOMuLF94)
+- [Abstract: K20.00002 : Observation of Room Temperature Superconductivity in Hydride at Near Ambient Pressure](https://meetings.aps.org/Meeting/MAR23/Session/K20.2)
 - [Midgal Eliashberg Theory](https://docs.epw-code.org/doc/Midgal-EliashbergTheory.html)
 - [The 2021 room-temperature superconductivity roadmap](https://iopscience.iop.org/article/10.1088/1361-648X/ac2864)
 - [DIAS Group](https://labsites.rochester.edu/dias/)
