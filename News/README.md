@@ -1,5 +1,11 @@
 # My reading logs (open)
 
+## 0309-2023
+
+- [Hopes raised for room-temperature superconductivity, but doubts remain](https://www.nature.com/articles/d41586-023-00599-9)
+
+
+
 ## 0308-2023
 
 - [APS March 23: Observation of Room Temperature Superconductivity in Hydride at Near Ambient Pressure](https://www.youtube.com/watch?v=XhhvOMuLF94)
