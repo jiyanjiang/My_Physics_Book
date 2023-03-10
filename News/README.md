@@ -1,9 +1,15 @@
 # My reading logs (open)
 
+
+## 0310-2023
+
+- [James Hamlin talks about Data Issues in High-Pressure Superconductivity Papers](https://www.youtube.com/watch?v=KiGgcNR2O5o)
+- Retracted [Pressure-Induced Superconducting State of Europium Metal at Low Temperatures](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.102.197002)
+- [Superconductivity above 70 K experimentally discovered in lutetium polyhydride](https://arxiv.org/abs/2303.05117)
+
 ## 0309-2023
 
 - [Hopes raised for room-temperature superconductivity, but doubts remain](https://www.nature.com/articles/d41586-023-00599-9)
-
 
 
 ## 0308-2023
