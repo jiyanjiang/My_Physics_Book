@@ -1,5 +1,12 @@
 # My reading logs (open)
 
+## 0314-2023
+
+- [On parent structures of near-ambient nitrogen-doped lutetium hydride superconductor](https://arxiv.org/abs/2303.06554)
+- [Pressure-induced color change in the lutetium dihydride LuH2](https://arxiv.org/abs/2303.06718)
+- [Evidence for ‘near-ambient’ superconductivity found in lutetium hydride](https://physicsworld.com/a/evidence-for-near-ambient-superconductivity-found-in-lutetium-hydride/)
+
+
 ## 0311-2023
 
 - [Allegations of Scientific Misconduct Mount as Physicist Makes His Biggest Claim Yet](https://physics.aps.org/articles/v16/40)
@@ -166,7 +173,3 @@
 <img src="https://user-images.githubusercontent.com/6512579/187875620-5198ebca-7f7c-421b-9330-c6644a3d0e4e.png" width="50%">
 
 - [This Hot Summer Is One of the Coolest of the Rest of Our Lives](https://www.scientificamerican.com/article/this-hot-summer-is-one-of-the-coolest-of-the-rest-of-our-lives/)
-
-
-
-
