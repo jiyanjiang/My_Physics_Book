@@ -4,7 +4,8 @@
 
 - [On parent structures of near-ambient nitrogen-doped lutetium hydride superconductor](https://arxiv.org/abs/2303.06554)
 - [Pressure-induced color change in the lutetium dihydride LuH2](https://arxiv.org/abs/2303.06718)
-- [Evidence for ‘near-ambient’ superconductivity found in lutetium hydride](https://physicsworld.com/a/evidence-for-near-ambient-superconductivity-found-in-lutetium-hydride/)
+- Physicsworld: [Evidence for ‘near-ambient’ superconductivity found in lutetium hydride](https://physicsworld.com/a/evidence-for-near-ambient-superconductivity-found-in-lutetium-hydride/)
+- Physicsworld: [Show us your metal](https://physicsworld.com/a/show-us-your-metal/)
 
 
 ## 0311-2023
