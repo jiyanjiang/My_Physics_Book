@@ -1,5 +1,9 @@
 # My reading logs (open)
 
+## 0315-2023
+
+- [GPT4](https://www.youtube.com/watch?v=DLYKjUPyBhQ)
+
 ## 0314-2023
 
 - [On parent structures of near-ambient nitrogen-doped lutetium hydride superconductor](https://arxiv.org/abs/2303.06554)
