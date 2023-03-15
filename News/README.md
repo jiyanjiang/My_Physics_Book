@@ -3,8 +3,8 @@
 ## 0315-2023
 
 - [GPT4 is coming](https://www.youtube.com/watch?v=DLYKjUPyBhQ)
-- 2303.05987 [True superconductivity at near ambient temperature has not been confirmed by Dasenbrock-Gammon, et. al. Nature (2023)](https://arxiv.org/abs/2303.05987)
-
+- 2303.05987 [True superconductivity at near ambient temperature has not been confirmed by Dasenbrock-Gammon, et. al. Nature (2023)](https://arxiv.org/abs/2303.05987) bad quality
+- [Feynman's Lecture on Computer](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 
 
 ## 0314-2023
