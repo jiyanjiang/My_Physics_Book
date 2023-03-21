@@ -1,5 +1,13 @@
 # My reading logs (open)
 
+## 0321-2023
+
+- [Absence of near-ambient superconductivity in LuH_{2\pm x}N_y](https://arxiv.org/pdf/2303.08759.pdf)
+
+
+
+
+
 ## 0315-2023
 
 - [GPT4 is coming](https://www.youtube.com/watch?v=DLYKjUPyBhQ)
