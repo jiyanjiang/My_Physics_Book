@@ -1,11 +1,13 @@
 # My reading logs (open)
 
+## 0322-2023
+
+- [Memory Sagan](http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/sagan-carl.pdf)
+- [Lynn Margulis Interview](https://www.youtube.com/watch?v=2D2_ZZuNmQI)
+
 ## 0321-2023
 
 - [Absence of near-ambient superconductivity in LuH_{2\pm x}N_y](https://arxiv.org/pdf/2303.08759.pdf)
-
-
-
 
 
 ## 0315-2023
