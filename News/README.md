@@ -1,8 +1,13 @@
 # My reading logs (open)
 
+## 0323-2023
+
+- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
+
+
 ## 0322-2023
 
-- [Memory Sagan](http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/sagan-carl.pdf)
+- [In Memory of Sagan](http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/sagan-carl.pdf)
 - [Lynn Margulis Interview](https://www.youtube.com/watch?v=2D2_ZZuNmQI)
 
 ## 0321-2023
