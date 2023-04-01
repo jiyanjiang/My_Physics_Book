@@ -1,5 +1,10 @@
 # My reading logs (open)
 
+## 0401-2023
+
+- [Observation of non-superconducting phase changes in LuHN](https://arxiv.org/abs/2303.17587)
+- [Pressure induced color change and evolution of metallic behavior in nitrogen-doped lutetium hydride](https://arxiv.org/abs/2303.17453)
+
 ## 0323-2023
 
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
