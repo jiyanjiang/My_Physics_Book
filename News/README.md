@@ -4,6 +4,7 @@
 
 - [Observation of non-superconducting phase changes in LuHN](https://arxiv.org/abs/2303.17587)
 - [Pressure induced color change and evolution of metallic behavior in nitrogen-doped lutetium hydride](https://arxiv.org/abs/2303.17453)
+- [Chat Doctor](https://github.com/Kent0n-Li/ChatDoctor)
 
 ## 0323-2023
 
