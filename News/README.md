@@ -1,5 +1,15 @@
 # My reading logs (open)
 
+## 0412-2023
+
+- [Large-Scale Domain-Specific Pretraining for Biomedical Vision-Language Processing](https://arxiv.org/abs/2303.00915)
+
+> Contrastive pretraining on parallel image-text data has attained great success in vision-language processing (VLP), as exemplified by CLIP and related methods. However, prior explorations tend to focus on general domains in the web. Biomedical images and text are rather different, but publicly available datasets are small and skew toward chest X-ray, thus severely limiting progress. In this paper, we conducted by far the largest study on biomedical VLP, using 15 million figure-caption pairs extracted from biomedical research articles in PubMed Central. Our dataset (PMC-15M) is two orders of magnitude larger than existing biomedical image-text datasets such as MIMIC-CXR, and spans a diverse range of biomedical images. The standard CLIP method is suboptimal for the biomedical domain. We propose BiomedCLIP with domain-specific adaptations tailored to biomedical VLP. We conducted extensive experiments and ablation studies on standard biomedical imaging tasks from retrieval to classification to visual question-answering (VQA). BiomedCLIP established new state of the art in a wide range of standard datasets, substantially outperformed prior VLP approaches. Surprisingly, BiomedCLIP even outperformed radiology-specific state-of-the-art models such as BioViL on radiology-specific tasks such as RSNA pneumonia detection, thus highlighting the utility in large-scale pretraining across all biomedical image types. We will release our models at this https URL to facilitate future research in biomedical VLP.
+
+生物医学视觉语言处理的大规模领域特定预训练
+
+> 在视觉语言处理（VLP）中，基于平行图像文本数据的对比预训练已经取得了巨大成功，例如CLIP和相关方法。然而，先前的探索往往集中在网络的一般领域。生物医学图像和文本相当不同，但公开可用的数据集很小，并且偏向于胸部X线，因此严重限制了进展。在本文中，我们对生物医学VLP进行了有史以来最大的研究，使用从PubMed Central生物医学研究文章中提取的1500万个图像标题对。我们的数据集（PMC-15M）比现有的生物医学图像文本数据集（例如MIMIC-CXR）大两个数量级，并涵盖各种生物医学图像。标准的CLIP方法对于生物医学领域来说并不是最佳选择。我们提出了BiomedCLIP，针对生物医学VLP的领域特定自适应。我们对从检索到分类再到视觉问答（VQA）的标准生物医学图像任务进行了广泛的实验和消融研究。BiomedCLIP在各种标准数据集中确立了新的技术水平，明显优于先前的VLP方法。令人惊讶的是，BiomedCLIP甚至在放射学特定任务（如RSNA肺炎检测）上也优于放射学专业领域的最新模型，因此突显了大规模预训练在所有生物医学图像类型中的实用性。我们将在此https URL上发布我们的模型，以促进未来的生物医学VLP研究。
+
 ## 0401-2023
 
 - [Observation of non-superconducting phase changes in LuHN](https://arxiv.org/abs/2303.17587)
