@@ -40,6 +40,10 @@ https://www.symbolab.com/
 
 https://www.overleaf.com/project
 
+## Me
+
+https://thinkphysics.substack.com/
+
 ## Ref
 
 - [ZH Lib](https://zh.z-lib.org/) 中文图书
