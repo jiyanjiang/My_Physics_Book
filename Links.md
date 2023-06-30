@@ -40,6 +40,8 @@ https://www.symbolab.com/
 
 https://www.overleaf.com/project
 
+https://en.wikibooks.org/wiki/LaTeX/Tables
+
 ## Me
 
 https://thinkphysics.substack.com/
