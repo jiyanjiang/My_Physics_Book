@@ -12,4 +12,8 @@
 
 ## Key notion
 
-> 硬件结构不是设计出来的，而是训练/演化/迭代出来的。
+- 硬件结构不是设计出来的，而是训练/演化/迭代出来的。
+
+## Videos
+
+- [Neuromorphic Computing-How The Brain-Inspired Technology](https://www.youtube.com/watch?v=u9pulFlavIM)
