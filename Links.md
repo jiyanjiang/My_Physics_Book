@@ -53,5 +53,5 @@ https://thinkphysics.substack.com/
 - [Sci-Hub](https://sci-hub.se/) 英文论文
 - [arxiv](https://arxiv.org/) 预印本文库
 - [doi2bib](https://www.doi2bib.org/) DOI to Bib
-- [Download Youtube video](https://ssyoutube.com/en43/youtube-video-downloader)
+- [Convert and Download Youtube video](https://www.ytbvideoly.com/d30-home/)
 - [Twitter video downloader](https://twittervideodownloader.com/)
