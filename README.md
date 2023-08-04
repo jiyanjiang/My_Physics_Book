@@ -47,7 +47,7 @@ _短评_
 
 支持本项目，请加入我的星球。
 
-<img src="https://user-images.githubusercontent.com/6512579/188053805-ef00bd01-9c5d-4df0-9c6b-bd74c4db9cc4.png" width="50%">
+<img src="https://github.com/jiyanjiang/My_Physics_Book/assets/6512579/63a91153-01cd-4335-bb37-e84e7016149e" width="50%">
 
 ![image](https://user-images.githubusercontent.com/6512579/189812986-d7ed1583-8f37-4028-973c-befe6a57ba5a.png)
 ---
