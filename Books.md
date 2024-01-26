@@ -12,6 +12,11 @@ _Works by all physicists!_
 ## David Bohm (1917-1992)
 
 - Infinite Potential: The Life and Times of David Bohm
+- David Bohm: A Life Dedicated to Understanding the Quantum World
+- The Essential David Bohm
+- The Ending of Time
+- On Dialogue
+- 论创造力
 
 ## John Stewart Bell (1928-1990)
 
