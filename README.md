@@ -45,11 +45,6 @@ _短评_
 - [2023](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Misc/Short_Comments_2023.md)
 - [2022](https://github.com/jiyanjiang/My_Physics_Book/blob/main/Misc/Short_Comments_2022.md)
 
-支持本项目，请加入我的星球。
-
-<img src="https://github.com/jiyanjiang/My_Physics_Book/assets/6512579/63a91153-01cd-4335-bb37-e84e7016149e" width="50%">
-
-![image](https://user-images.githubusercontent.com/6512579/189812986-d7ed1583-8f37-4028-973c-befe6a57ba5a.png)
 ---
 
 本作品采用[知识共享署名4.0国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)进行许可。
