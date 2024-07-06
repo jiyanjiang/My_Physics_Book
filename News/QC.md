@@ -118,5 +118,7 @@ Riverlane was founded in 2016 by Steve Brierley, a senior research fellow in com
 
 ## Tools 工具
 
+1. Colab, https://colab.research.google.com/
+2. Jupyter Notebook, https://jupyter.org/
 [Quantum mechanics lectures with QuTiP](https://qutip.org/qutip-tutorials/#lectures)
 
