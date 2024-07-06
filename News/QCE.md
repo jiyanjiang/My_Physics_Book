@@ -23,7 +23,9 @@ https://www.nature.com/articles/nphys3230
 
 ### IBM
 
-
+- Quantum Error suppression
+- Quantum Error Mitigation
+- Quantum Error Correction
 
 ### Google
 
