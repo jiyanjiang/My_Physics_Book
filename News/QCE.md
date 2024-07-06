@@ -7,6 +7,12 @@
 量子体积, [Quantum Volume: A Yardstick To Measure The Performance Of Quantum Computers](https://www.forbes.com/sites/moorinsights/2019/11/23/quantum-volume-a-yardstick-to-measure-the-power-of-quantum-computers/
 )
 
+量子体积与如下因素有关：
+
+1. 量子比特数
+2. 量子比特的连接性，假设各个量子比特互相充分连接，就有更强的处理信息的能力
+3. 量子线路的深度
+
 
 ## 量子优越性（Quantum supremacy）
 
