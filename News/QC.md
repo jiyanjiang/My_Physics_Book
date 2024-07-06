@@ -47,7 +47,8 @@
 
 2019, [Quantum supremacy using a programmable superconducting processor](https://www.nature.com/articles/s41586-019-1666-5)
 
-
+1. 随机线路采样
+2. 玻色采样
 
 
 ## 量子纠错（Quantum Error Correction）
@@ -113,3 +114,9 @@ https://www.researching.cn/ArticlePdf/m30001/2020/69/11/20200812.pdf
 https://www.riverlane.com/
 
 Riverlane was founded in 2016 by Steve Brierley, a senior research fellow in computational mathematics at the University of Cambridge. At that time, the majority view in the global quantum computing community was that 'useful' quantum computing was more than 20 years away - or might never happen.
+
+
+## Tools 工具
+
+[Quantum mechanics lectures with QuTiP](https://qutip.org/qutip-tutorials/#lectures)
+
