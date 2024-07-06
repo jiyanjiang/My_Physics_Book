@@ -11,13 +11,9 @@
 短期，量子计算走向应用的突破点在：
 
 1. 错误缓解技术，[Quantum Error Mitigation](https://arxiv.org/abs/2210.00921)
-2. 中等有噪声的量子计算（NISQ, Noisy Intermediate-Scale Quantum Computing），[https://arxiv.org/abs/1801.00862](https://arxiv.org/abs/1801.00862)
+2. 中等有噪声的量子计算（NISQ, Noisy Intermediate-Scale Quantum Computing），[Quantum Computing in the NISQ era and beyond
+](https://arxiv.org/abs/1801.00862)
 
-
- 
-
-
-https://arxiv.org/pdf/1801.00862
 
 
 ## 量子计算机的硬件实现
