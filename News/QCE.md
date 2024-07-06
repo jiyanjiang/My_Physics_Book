@@ -2,7 +2,17 @@
 
 @ianwest
 
+## 评价一台量子计算机的指标
+
+量子体积, [Quantum Volume: A Yardstick To Measure The Performance Of Quantum Computers](https://www.forbes.com/sites/moorinsights/2019/11/23/quantum-volume-a-yardstick-to-measure-the-power-of-quantum-computers/
+)
+
+
 ## 量子优越性（Quantum supremacy）
+
+2012, Preskill
+
+
 
 - Google
 
