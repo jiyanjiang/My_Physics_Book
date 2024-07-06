@@ -55,7 +55,15 @@ https://www.nature.com/articles/nphys3230
 
 ### 微软
 
+
 马约拉纳零能模（MZM）
 
 马约拉纳零能模的非阿贝尔统计及其在拓扑量子计算的应用
 https://www.researching.cn/ArticlePdf/m30001/2020/69/11/20200812.pdf
+
+
+## 行业/公司 Companies
+
+https://www.riverlane.com/
+
+Riverlane was founded in 2016 by Steve Brierley, a senior research fellow in computational mathematics at the University of Cambridge. At that time, the majority view in the global quantum computing community was that 'useful' quantum computing was more than 20 years away - or might never happen.
