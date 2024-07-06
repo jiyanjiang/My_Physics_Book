@@ -1,3 +1,7 @@
+# 量子计算 QUANTUM COMPUTING Read Log
+
+@jiyanjiang
+
 ## 量子优越性（Quantum supremacy）
 
 - Google
@@ -7,7 +11,7 @@
 
 
 
-## 量子纠错（Quantum Error Correction）Read Log
+## 量子纠错（Quantum Error Correction）
 
 ## 人物 People
 
