@@ -17,6 +17,9 @@ https://en.wikipedia.org/wiki/Stephen_Wiesner
 Charles H. Bennett, (1943- )
 https://en.wikipedia.org/wiki/Charles_H._Bennett_%28physicist%29
 
+Dr. Chetan Nayak
+https://www.microsoft.com/en-us/research/people/cnayak/
+
 
 ### 信息与熵 Information and Entropy
 
