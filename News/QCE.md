@@ -7,9 +7,10 @@
 - Landauer's Theorem
 
 - Feynman’s Lecture on Computing
+[Three Papers Related to Quantum Computing](https://jackkrupansky.medium.com/feynmans-three-papers-related-to-quantum-computing-dd6f9847e6ad)
 
-Three Papers Related to Quantum Computing
-https://jackkrupansky.medium.com/feynmans-three-papers-related-to-quantum-computing-dd6f9847e6ad
+
+
 
 
 Thermodynamics of information
