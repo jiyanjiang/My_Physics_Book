@@ -1,6 +1,6 @@
 # 量子计算 QUANTUM COMPUTING Read Log
 
-@jiyanjiang
+@ianwest
 
 ## 量子优越性（Quantum supremacy）
 
