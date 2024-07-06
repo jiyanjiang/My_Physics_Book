@@ -2,6 +2,24 @@
 
 @ianwest
 
+## 重点
+
+1. 量子计算要想大规模走向应用，必须解决量子纠错的问题。
+2. 量子纠错太难了，短期实现很难。
+3. 短期，我们必须学会与错误共存。
+
+短期，量子计算走向应用的突破点在：
+
+1. 错误缓解技术，[Quantum Error Mitigation](https://arxiv.org/abs/2210.00921)
+2. 中等有噪声的量子计算（NISQ, Noisy Intermediate-Scale Quantum Computing），[https://arxiv.org/abs/1801.00862](https://arxiv.org/abs/1801.00862)
+
+
+ 
+
+
+https://arxiv.org/pdf/1801.00862
+
+
 ## 量子计算机的硬件实现
 
 1. 超导量子计算: Transmon 超导传输子量子比特
@@ -10,8 +28,6 @@
 4. 中性原子计算：里德堡原子中的两个能级
 5. 拓扑量子计算：超导纳米线中的马约拉纳零能模（MZM）
 6. 量子退火机：严格说不算量子计算机，超导磁通量子比特 Fluxon
-
-
 
 ## 评价一台量子计算机的指标
 
