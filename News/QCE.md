@@ -1,3 +1,12 @@
+## 量子优越性（Quantum supremacy）
+
+- Google
+
+2019, [Quantum supremacy using a programmable superconducting processor](https://www.nature.com/articles/s41586-019-1666-5)
+
+
+
+
 ## 量子纠错（Quantum Error Correction）Read Log
 
 ## 人物 People
