@@ -23,9 +23,14 @@ https://www.nature.com/articles/nphys3230
 
 ### IBM
 
-- Quantum Error suppression
-- Quantum Error Mitigation
-- Quantum Error Correction
+- Quantum Error suppression 错误抑制
+- Quantum Error Mitigation 错误缓解
+- Quantum Error Correction 量子纠错
+
+[What’s the difference between error suppression, error mitigation, and error correction?](https://www.ibm.com/quantum/blog/quantum-error-suppression-mitigation-correction)
+
+[Quantum Error Mitigation](https://arxiv.org/abs/2210.00921)
+
 
 ### Google
 
