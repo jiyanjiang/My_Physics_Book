@@ -1,5 +1,14 @@
 ## 量子纠错（Quantum Error Correction）Read Log
 
+## 人物 People
+
+Stephen Wiesner (1942 – August 12, 2021),
+https://en.wikipedia.org/wiki/Stephen_Wiesner
+
+Charles H. Bennett, (1943- )
+https://en.wikipedia.org/wiki/Charles_H._Bennett_%28physicist%29
+
+
 ### 信息与熵 Information and Entropy
 
 - Maxwell's demon
