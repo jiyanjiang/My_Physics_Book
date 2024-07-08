@@ -17,7 +17,7 @@
 
 ## 量子计算的由来
 
-1984[Quantum Mechanical Computers](https://opn-web-afd-d3bfbkd5bcc5asbs.z02.azurefd.net/opn/media/images/pdfs/11557/11557_23417_110730.pdf)
+1984, [Quantum Mechanical Computers](https://opn-web-afd-d3bfbkd5bcc5asbs.z02.azurefd.net/opn/media/images/pdfs/11557/11557_23417_110730.pdf)
 
 
 
