@@ -55,3 +55,4 @@ https://thinkphysics.substack.com/
 - [doi2bib](https://www.doi2bib.org/) DOI to Bib
 - [Convert and Download Youtube video](https://www.ytbvideoly.com/d30-home/)
 - [Twitter video downloader](https://twittervideodownloader.com/)
+- https://www.listennotes.com/ 播客
