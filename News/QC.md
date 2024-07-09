@@ -121,6 +121,9 @@ https://www.riverlane.com/
 
 Riverlane was founded in 2016 by Steve Brierley, a senior research fellow in computational mathematics at the University of Cambridge. At that time, the majority view in the global quantum computing community was that 'useful' quantum computing was more than 20 years away - or might never happen.
 
+## 一般参考
+
+https://qubit.guide/index
 
 ## Tools 工具
 
