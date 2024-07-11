@@ -40,7 +40,18 @@
 
 - 光量子计算机DIY: [DIY Quantum Computing: How I Got Started Building Quantum Circuits](https://turbofuture.com/computers/build-quantum-computer)
 
+### 中性原子量子计算
 
+- 光镊（optical tweezer）使中性原子通过激光聚焦被束缚在空间指定位置；
+- 中性原子一般使用里德堡原子，里德堡原子钟的两个能级构成量子比特；
+- 光镊移动中性原子使不同量子比特发生耦合，耦合机制为电偶极矩相互作用(dipole-dipole interaction)；
+- 如此实现的双量子比特门保真度高，能实现更多连接数。
+
+是实现规模化量子纠错的最新选择，大有后来居上的趋势。
+
+2022-01: [](https://www.mittrchina.com/news/detail/10251), [Vibrating atoms make robust qubits](https://news.mit.edu/2022/vibrating-atoms-qubits-0126)
+
+> 该研究团队利用激光干涉形成二维网状势阱，捕获了大约 400 对中性钾-40 冷原子，制造了一种光学晶格结构，并成功地在每个原子对中观测到了两种不同量子振动行为的叠加态，发现了全新的量子比特
 
 
 ## 评价一台量子计算机的指标
