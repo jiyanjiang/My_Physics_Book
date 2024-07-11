@@ -40,6 +40,12 @@
 
 - 光量子计算机DIY: [DIY Quantum Computing: How I Got Started Building Quantum Circuits](https://turbofuture.com/computers/build-quantum-computer)
 
+Comments: 根据不确定关系，具有单一频率，且具有确切光子数的量子态是不可能存在的。
+
+> The Heisenberg uncertainty principle dictates that a state with an exact number of photons of a single frequency cannot be created.
+
+$$\Delta E \Delta t \ge h $$
+
 ### 中性原子量子计算
 
 - 光镊（optical tweezer）使中性原子通过激光聚焦被束缚在空间指定位置；
