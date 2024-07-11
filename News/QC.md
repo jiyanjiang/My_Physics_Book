@@ -31,6 +31,17 @@
 5. 拓扑量子计算：超导纳米线中的马约拉纳零能模（MZM）
 6. 量子退火机：严格说不算量子计算机，超导磁通量子比特 Fluxon
 
+### 光量子计算
+
+- [Universal photonic quantum processor sets new size record
+](https://physicsworld.com/a/universal-photonic-quantum-processor-sets-new-size-record/)
+
+- Company: [QuiX](https://www.quixquantum.com/)
+
+
+
+
+
 ## 评价一台量子计算机的指标
 
 量子体积, [Quantum Volume: A Yardstick To Measure The Performance Of Quantum Computers](https://www.forbes.com/sites/moorinsights/2019/11/23/quantum-volume-a-yardstick-to-measure-the-power-of-quantum-computers/
