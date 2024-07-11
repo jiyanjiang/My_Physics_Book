@@ -36,8 +36,9 @@
 - [Universal photonic quantum processor sets new size record
 ](https://physicsworld.com/a/universal-photonic-quantum-processor-sets-new-size-record/)
 
-- Company: [QuiX](https://www.quixquantum.com/)
+- Company: [QuiX](https://www.quixquantum.com/), Photonic Quantum Computing
 
+- 光量子计算机DIY: [DIY Quantum Computing: How I Got Started Building Quantum Circuits](https://turbofuture.com/computers/build-quantum-computer)
 
 
 
