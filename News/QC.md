@@ -99,6 +99,9 @@ arXiv [Solving the sampling problem of the Sycamore quantum circuits](https://ar
 1. 随机线路采样
 2. 玻色采样
 
+2020, [Quantum computational advantage using photons](https://www.science.org/doi/10.1126/science.abe8770)
+
+
 ## 量子应用 Application
 
 大概三个层次
