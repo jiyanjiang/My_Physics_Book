@@ -82,11 +82,16 @@ $$\Delta E \Delta t \ge h $$
 
 2012, Preskill
 
-
+2019, 谷歌，量子随机线路采样
 
 - Google
 
 2019, [Quantum supremacy using a programmable superconducting processor](https://www.nature.com/articles/s41586-019-1666-5)
+
+2022, 普通计算机也能打败谷歌的量子计算机
+
+- [Ordinary computers can beat Google’s quantum computer after all](https://www.science.org/content/article/ordinary-computers-can-beat-google-s-quantum-computer-after-all)
+
 
 1. 随机线路采样
 2. 玻色采样
