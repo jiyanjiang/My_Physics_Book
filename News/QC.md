@@ -90,8 +90,9 @@ $$\Delta E \Delta t \ge h $$
 
 2022, 普通计算机也能打败谷歌的量子计算机
 
-- [Ordinary computers can beat Google’s quantum computer after all](https://www.science.org/content/article/ordinary-computers-can-beat-google-s-quantum-computer-after-all)
+- [Ordinary computers can beat Google’s quantum computer after all](https://www.science.org/content/article/ordinary-computers-can-beat-google-s-quantum-computer-after-all) 
 
+arXiv [Solving the sampling problem of the Sycamore quantum circuits](https://arxiv.org/abs/2111.03011)
 
 1. 随机线路采样
 2. 玻色采样
