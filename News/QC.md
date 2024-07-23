@@ -94,6 +94,8 @@ $$\Delta E \Delta t \ge h $$
 
 arXiv [Solving the sampling problem of the Sycamore quantum circuits](https://arxiv.org/abs/2111.03011)
 
+- [Google’s ‘quantum supremacy’ usurped by researchers using ordinary supercomputer](https://techcrunch.com/2022/08/05/googles-quantum-supremacy-usurped-by-researchers-using-ordinary-supercomputer/)
+
 1. 随机线路采样
 2. 玻色采样
 
