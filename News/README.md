@@ -2,7 +2,7 @@
 
 ## 1019-2024
 
-[60行NumPy手搓GPT](https://jiqihumanr.github.io/2023/04/13/gpt-from-scratch/)
+- 翻译：[60行NumPy手搓GPT](https://jiqihumanr.github.io/2023/04/13/gpt-from-scratch/)
 
 
 ## 1018-2024
