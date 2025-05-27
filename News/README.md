@@ -1,5 +1,13 @@
 # My reading logs (open)
 
+## 0528-2025
+
+PhyX: Does Your Model Have the "Wits" for Physical Reasoning?
+
+Existing benchmarks fail to capture a crucial aspect of intelligence: physical reasoning, the integrated ability to combine domain knowledge, symbolic reasoning, and understanding of real-world constraints. To address this gap, we introduce PhyX: the first large-scale benchmark designed to assess models capacity for physics-grounded reasoning in visual scenarios. PhyX includes 3K meticulously curated multimodal questions spanning 6 reasoning types across 25 sub-domains and 6 core physics domains: thermodynamics, electromagnetism, mechanics, modern physics, optics, and wave \& acoustics.
+
+https://arxiv.org/abs/2505.15929
+
 ## 1019-2024
 
 - 翻译：[60行NumPy手搓GPT](https://jiqihumanr.github.io/2023/04/13/gpt-from-scratch/)
