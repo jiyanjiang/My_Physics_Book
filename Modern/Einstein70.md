@@ -46,3 +46,15 @@ https://book.douban.com/subject/1129475/
 
 15. 吉梅纳·卡纳莱丝，《爱因斯坦与柏格森之辩》
 https://book.douban.com/subject/30389948/
+
+16. 卢昌海，《从奇点到虫洞》
+https://book.douban.com/subject/25775689/
+
+17. 卢昌海，《时空的乐章》
+https://book.douban.com/subject/30421164/
+
+18. 张天蓉，《爱因斯坦与万物之理》
+https://book.douban.com/subject/26731315/
+
+19. 丹尼尔·肯尼菲克，《传播，以思想的速度：爱因斯坦与引力波》
+https://book.douban.com/subject/6023053/
