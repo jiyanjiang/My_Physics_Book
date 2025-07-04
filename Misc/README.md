@@ -34,3 +34,16 @@ graph TD
   D --> E[开发]
   E --> F[测试]
   F --> G[发布]
+
+
+
+
+```mermaid
+gantt
+  title 项目甘特图
+  dateFormat YYYY-MM-DD
+  section 阶段1
+  任务1 :a1, 2025-07-01, 7d
+  任务2 :a2, after a1, 5d
+  section 阶段2
+  任务3 :a3, 2025-07-15, 10d
