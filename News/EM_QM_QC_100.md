@@ -13,7 +13,7 @@
 
 然后由这些基本概念出发，我将带领大家进入由**量子纠缠**，**量子隐形传态**和**量子计算**等构成的奇妙世界。
 
-![](https://github.com/jiyanjiang/My_Physics_Book/blob/main/News/q_entangle.png =549x490)
+<img src="https://github.com/jiyanjiang/My_Physics_Book/blob/main/News/q_entangle.png" width="50%">
 
 为了帮助大家更好地了解量子力学，激发起学习物理学的兴趣。我这里向大家推荐两本书：
 
