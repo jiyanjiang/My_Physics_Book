@@ -1,9 +1,9 @@
 Claude编写的科普应用
 ---
 
-- [量子力学科普桌游卡牌](https://claude.ai/public/artifacts/241a3ec6-7eb3-47c7-9c56-ef010ec0e246)
+1. [量子力学科普桌游卡牌](https://claude.ai/public/artifacts/241a3ec6-7eb3-47c7-9c56-ef010ec0e246)
 
-- [穿越地球中心的隧道](https://claude.ai/public/artifacts/26d895cd-451b-46cc-9275-22c899b0adb5)
+2. [穿越地球中心的隧道](https://claude.ai/public/artifacts/26d895cd-451b-46cc-9275-22c899b0adb5)
 
 ```
 请依次回答以下问题：
@@ -38,4 +38,10 @@ $T = 2\pi \sqrt{R/g} $
 
 这个原理是否有潜在的实际应用？在哪里？
 
+3. [双单摆运动模拟器](https://claude.ai/public/artifacts/ebe6d1cb-a1ab-47ea-ba0e-7e5e045a4d1f)
 
+假设我们有一个重物，拴在单摆的一段，单摆的长度是L米，这个L是可以输入的，请编写一个程序模拟单摆的运动。并把单摆的位置和时间变化关系用曲线实时输出。
+
+假设我们可以同时观察两个单摆的运动，一个摆长长，另一个摆长短，请编写程序表示这两个单摆的实时运动，并把两个单摆的位置和时间关系用曲线实时输出。
+
+单摆周期：$T = 2 \pi \sqrt{L/g}$
