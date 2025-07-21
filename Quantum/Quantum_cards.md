@@ -125,4 +125,4 @@ $T = 2 \pi \sqrt{L/g}$ （单摆周期）
 
 问题：这样生成的分形图在数学上叫什么名字？
 
-
+9. [海战棋](https://claude.ai/public/artifacts/1345a7b1-6c04-4666-97ac-3c355c8c0f3e)
