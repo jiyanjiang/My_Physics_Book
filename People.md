@@ -198,5 +198,6 @@
 - 卡尔·萨根（Carl Sagan, 1934-1996）
 - 丁肇中（C. C. Ting, 1936-）
 - 科尔曼 (S Coleman, 1937-2007)
+- 崔琦 (Daniel C. Tsui, 1939-)
 - 朱棣文（Steven Chu, 1948-）
 - 惠顿（Edward Witten, 1951-）
