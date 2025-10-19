@@ -197,5 +197,6 @@
 - 温伯格（Steven Weinberg, 1933-2021）
 - 卡尔·萨根（Carl Sagan, 1934-1996）
 - 丁肇中（C. C. Ting, 1936-）
+- 科尔曼 (S Coleman, 1937-2007)
 - 朱棣文（Steven Chu, 1948-）
 - 惠顿（Edward Witten, 1951-）
