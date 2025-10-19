@@ -140,17 +140,22 @@
 - 塔姆（Tamm, 1895-1971）
 - 洪特（Friedrich Hund, 1896-1997）
 - 伊雷娜·约里奥-居里（Irène Joliot-Curie, 1897-1956）
+- 西拉德 (Szilard, 1898-1964)
 - 拉比（Isidor Isaac Rabi, 1898-1988）
 - 泡利（Wolfgang Pauli, 1900-1958）
 - 劳伦斯（Ernest Lawrence, 1901-1958）
 - 费米（Enrico Fermi, 1901-1958）
 - 海森堡（Heisenberg, 1901-1976）
+- 鲍林 (Linus Carl Pauling, 1901-1994)
+- 约丹 (P Jordan, 1902-1980)
 - 狄拉克（Dirac, 1902-1984）
 - 维格纳（Eugene Wigner, 1902-1995）
 - 冯·诺依曼（John von Neumann, 1903-1957）
 - 奥本海默（Oppenheimer, 1904-1967）
 - 伽莫夫（George Gamow, 1904-1968）
+- 奈尔 (Néel, 1904-2000)
 - 朝永振一郎（Tomonaga Shin'ichirō, 1906-1979）
+- 德尔布吕克 (Delbrück, 1906-1981)
 - 汉斯·贝特（Hans Bethe, 1906-2005）
 - 汤川秀树（Yukawa Hideki, 1907-1981）
 - 朗道（Landau, 1908-1968）
@@ -175,17 +180,21 @@
 - 罗塞琳·富兰克林（Rosalind Franklin, 1920-1958）
 - 久保亮五（Ryogo Kubo, 1920-1995）
 - 南部阳一郎（Yoichiro Nambu, 1921-2015）
-- 杨振宁（C N Yang, 1922-）
+- 莱德曼 (Lederman, 1922-2018)
+- 杨振宁（C N Yang, 1922-2025）
 - 安德森（Philip Warren Anderson, 1923-2020）
 - 戴森（Freeman Dyson, 1923-2020）
 - 萨拉姆（Abdus Salam, 1926-1996）
+- 李政道 (T D Lee, 1926-2024)
 - 诺伊斯（Noyce, 1927-1990）
 - 阿布里科索夫（Abrikosov, 1928-2017）
 - 约翰·贝尔（John Stewart Bell, 1928-1990）
 - 沃森（James Watson, 1928-）
-- 盖尔曼（Murray Gell-Mann, 1929-）
+- 盖尔曼（Murray Gell-Mann, 1929-2019）
+- 希格斯 (Higgs, 1929-2024)
 - 休·艾弗雷特（Hugh Everett III, 1930-1982）
-- 温伯格（Steven Weinberg, 1933-）
+- 韦尔特曼 (Veltman, 1931-2021)
+- 温伯格（Steven Weinberg, 1933-2021）
 - 卡尔·萨根（Carl Sagan, 1934-1996）
 - 丁肇中（C. C. Ting, 1936-）
 - 朱棣文（Steven Chu, 1948-）
