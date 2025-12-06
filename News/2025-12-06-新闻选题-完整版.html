@@ -1,0 +1,1031 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2025年12月6日重要科学新闻汇总与深度报道选题</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        .subtitle {
+            font-size: 1.1em;
+            opacity: 0.9;
+            margin-bottom: 20px;
+        }
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+        .stat-item {
+            text-align: center;
+            background: rgba(255,255,255,0.1);
+            padding: 15px 25px;
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+        }
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            display: block;
+        }
+        .content {
+            padding: 40px 30px;
+        }
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 50px;
+        }
+        .news-card {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 20px;
+            border-left: 4px solid #667eea;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+        .news-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.1);
+        }
+        .news-title {
+            font-size: 1.2em;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        .news-source {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8em;
+            margin-bottom: 10px;
+        }
+        .news-summary {
+            color: #555;
+            margin-bottom: 15px;
+            line-height: 1.5;
+        }
+        .news-link {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .news-link:hover {
+            color: #764ba2;
+        }
+        .priority-list {
+            counter-reset: priority-counter;
+            margin-top: 50px;
+        }
+        .priority-item {
+            background: white;
+            border: 1px solid #e1e8ed;
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            position: relative;
+            counter-increment: priority-counter;
+            transition: all 0.3s ease;
+        }
+        .priority-item::before {
+            content: counter(priority-counter);
+            position: absolute;
+            left: -20px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+        .priority-item:hover {
+            box-shadow: 0 15px 35px rgba(102, 126, 234, 0.15);
+            transform: translateY(-2px);
+        }
+        .priority-title {
+            font-size: 1.5em;
+            font-weight: 700;
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+        .priority-meta {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        .meta-item {
+            background: #f8f9fa;
+            padding: 8px 15px;
+            border-radius: 10px;
+            font-size: 0.9em;
+            color: #555;
+        }
+        .priority-score {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: white;
+            font-weight: 600;
+        }
+        .section-title {
+            font-size: 2em;
+            font-weight: 700;
+            color: #2c3e50;
+            margin-bottom: 30px;
+            position: relative;
+            padding-left: 20px;
+        }
+        .section-title::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 5px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            border-radius: 3px;
+        }
+        .expanded-item {
+            background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+            border-left: 4px solid #ff6b6b;
+        }
+        .reason-box {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-top: 20px;
+        }
+        .reason-title {
+            font-size: 1.3em;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .reason-content {
+            color: #555;
+            line-height: 1.7;
+        }
+        .history-box {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 20px;
+            margin-top: 20px;
+            border-left: 4px solid #4CAF50;
+        }
+        .score-breakdown {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+        .score-item {
+            text-align: center;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 12px;
+        }
+        .score-label {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 5px;
+        }
+        .score-value {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #667eea;
+        }
+        .related-links {
+            margin-top: 20px;
+        }
+        .related-link {
+            display: block;
+            padding: 10px;
+            background: #f8f9fa;
+            margin-bottom: 8px;
+            border-radius: 8px;
+            text-decoration: none;
+            color: #555;
+            transition: all 0.3s ease;
+        }
+        .related-link:hover {
+            background: #e9ecef;
+            transform: translateX(5px);
+        }
+        .merge-indicator {
+            background: #17a2b8;
+            color: white;
+            padding: 5px 12px;
+            border-radius: 15px;
+            font-size: 0.8em;
+            margin-left: 10px;
+        }
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            h1 {
+                font-size: 2em;
+            }
+            .stats {
+                gap: 15px;
+            }
+            .news-grid {
+                grid-template-columns: 1fr;
+            }
+            .priority-item::before {
+                left: -10px;
+                width: 30px;
+                height: 30px;
+                font-size: 1em;
+            }
+            .priority-meta {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔬 2025年12月6日重要科学新闻汇总</h1>
+            <div class="subtitle">全球科学界最新突破与深度报道选题分析</div>
+            <div class="stats">
+                <div class="stat-item">
+                    <span class="stat-number">23</span>
+                    <span>重要新闻事件</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">5</span>
+                    <span>权威新闻源</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">10</span>
+                    <span>推荐深度选题</span>
+                </div>
+            </div>
+        </header>
+
+        <div class="content">
+            <!-- 全部新闻事件列表 -->
+            <h2 class="section-title">📰 今日全部科学新闻事件</h2>
+            <div class="news-grid">
+                
+                <!-- 暗物质发现 -->
+                <div class="news-card expanded-item">
+                    <div class="news-title">🌌 银河系伽马射线可能首次揭示暗物质踪迹</div>
+                    <span class="news-source">Physics World</span>
+                    <div class="news-summary">日本天文学家通过费米望远镜数据发现银河系光晕中过量伽马射线，能谱特征与WIMP暗物质湮灭理论高度吻合。</div>
+                    <a href="https://physicsworld.com/a/galactic-gamma-rays-could-point-to-dark-matter/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <!-- AI选举影响 -->
+                <div class="news-card expanded-item">
+                    <div class="news-title">🤖 AI聊天机器人显著影响选举结果</div>
+                    <span class="news-source">Nature</span>
+                    <div class="news-summary">跨国实验显示AI聊天机器人可使选民偏好改变10个百分点，影响力远超传统政治广告，引发民主制度安全担忧。</div>
+                    <a href="https://www.nature.com/articles/d41586-025-03975-9" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <!-- 卫星污染天文观测 -->
+                <div class="news-card expanded-item">
+                    <div class="news-title">🛰️ 卫星星座将影响96%太空望远镜图像</div>
+                    <span class="news-source">Nature</span>
+                    <div class="news-summary">NASA研究警告商业卫星星座计划将严重污染天文观测，可能威胁小行星监测等关键功能。</div>
+                    <a href="https://www.nature.com/articles/d41586-025-03953-1" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <!-- 其他NASA新闻 -->
+                <div class="news-card">
+                    <div class="news-title">🏆 NASA日全食直播获艾美技术大奖</div>
+                    <span class="news-source">NASA</span>
+                    <div class="news-summary">NASA科学传播团队因2024年日全食直播技术获第76届技术与工程艾美奖。</div>
+                    <a href="https://www.nasa.gov/news/recently-published/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">🔭 罗马空间望远镜建造完成</div>
+                    <span class="news-source">NASA</span>
+                    <div class="news-summary">NASA下一代旗舰空间望远镜完成建造，即将进入测试阶段。</div>
+                    <a href="https://www.nasa.gov/news/recently-published/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">🎈 NASA南极气球科学计划启动</div>
+                    <span class="news-source">NASA</span>
+                    <div class="news-summary">NASA在南极启动长期气球探测计划，收集大气和宇宙射线数据。</div>
+                    <a href="https://www.nasa.gov/news/recently-published/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">👨‍🚀 Jonny Kim机组完成8个月空间站任务</div>
+                    <span class="news-source">NASA</span>
+                    <div class="news-summary">NASA宇航员结束245天驻留任务，将于12月9日返回地球。</div>
+                    <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-jonny-kim-crewmates-return/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <!-- MIT技术评论 -->
+                <div class="news-card">
+                    <div class="news-title">🧬 基因特征筛选广告引发伦理争议</div>
+                    <span class="news-source">MIT Technology Review</span>
+                    <div class="news-summary">Nucleus Genomics在纽约地铁推广"选择理想宝宝"基因检测服务，引发科学伦理讨论。</div>
+                    <a href="https://www.technologyreview.com/2025/12/05/1128755/selling-the-sizzle-of-trait-discrimination/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">🗳️ AI选举说服时代到来</div>
+                    <span class="news-source">MIT Technology Review</span>
+                    <div class="news-summary">文章警告AI对选举威胁已从模仿升级为主动说服，10轮对话影响1.74亿选民成本不足100万美元。</div>
+                    <a href="https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">🔍 AI发现隐藏地热能源</div>
+                    <span class="news-source">MIT Technology Review</span>
+                    <div class="news-summary">Zanskar公司利用AI在沙漠中发现"盲区"地热系统，30年来首个具备商业开发潜力的新发现。</div>
+                    <a href="https://www.technologyreview.com/2025/12/04/1128763/ai-geothermal-zanskar/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <!-- Nature其他新闻 -->
+                <div class="news-card">
+                    <div class="news-title">💊 实验性疫苗可预防致命过敏反应</div>
+                    <span class="news-source">Nature</span>
+                    <div class="news-summary">小鼠实验显示新型疫苗技术可提供比现有疗法更持久的过敏保护。</div>
+                    <a href="https://www.nature.com/articles/d41586-025-03960-2" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">🧠 AI研究成本效益引发担忧</div>
+                    <span class="news-source">Nature</span>
+                    <div class="news-summary">人工智能提升研究效率的同时，学界担忧过度依赖可能带来的负面影响。</div>
+                    <a href="https://www.nature.com/articles/d41586-025-03936-2" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">🤖 DeepSeek AI模型攻克复杂数学证明</div>
+                    <span class="news-source">Nature</span>
+                    <div class="news-summary">自校正AI模型在国际数学竞赛中表现与人类相当，展现AI数学推理能力。</div>
+                    <a href="https://www.nature.com/articles/d41586-025-03959-9" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <!-- Science News -->
+                <div class="news-card">
+                    <div class="news-title">🏥 CDC否决新生儿普遍乙肝疫苗接种</div>
+                    <span class="news-source">Science News</span>
+                    <div class="news-summary">美国疾控中心专家组投票决定缩减新生儿乙肝疫苗接种计划。</div>
+                    <a href="https://www.sciencenews.org/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">🦕 尼安德特人大鼻子非为寒冷气候而生</div>
+                    <span class="news-source">Science News</span>
+                    <div class="news-summary">新研究挑战尼安德特人大鼻子适应寒冷环境的传统假设。</div>
+                    <a href="https://www.sciencenews.org/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">🐴 雄性海马"母性"机制揭秘</div>
+                    <span class="news-source">Science News</span>
+                    <div class="news-summary">研究揭示雄性海马利用育儿袋孵育的生物学机制。</div>
+                    <a href="https://www.sciencenews.org/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <!-- Physics World -->
+                <div class="news-card">
+                    <div class="news-title">🏆 半导体激光先驱获2026光电奖</div>
+                    <span class="news-source">Physics World</span>
+                    <div class="news-summary">日本科学家Susumu Noda因光子晶体和半导体激光贡献获奖。</div>
+                    <a href="https://physicsworld.com/a/semiconductor-laser-pioneer-susumu-noda-wins-2026-rank-prize-for-optoelectronics/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">🔬 中国JUNO中微子观测站建成</div>
+                    <span class="news-source">Physics World</span>
+                    <div class="news-summary">位于广东江门地下700米的JUNO实验设施完工，旨在精确测量中微子质量顺序。</div>
+                    <a href="https://physicsworld.com/a/scientists-in-china-celebrate-the-completion-of-the-underground-juno-neutrino-observatory/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <!-- 其他重要新闻 -->
+                <div class="news-card">
+                    <div class="news-title">🩸 AI检测血细胞异常超越人类</div>
+                    <span class="news-source">Physics World</span>
+                    <div class="news-summary">生成式AI模型CytoDiffusion检测血细胞异常准确率超人类专家。</div>
+                    <a href="https://physicsworld.com/a/generative-ai-model-detects-blood-cell-abnormalities/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">⚛️ 量子热力学重新定义熵</div>
+                    <span class="news-source">Physics World</span>
+                    <div class="news-summary">量子尺度热力学研究为熵的概念提供更精确的定义。</div>
+                    <a href="https://physicsworld.com/a/quantum-scale-thermodynamics-offers-a-tighter-definition-of-entropy/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">🛰️ NASA签署月球冷冻系统合同</div>
+                    <span class="news-source">NASA</span>
+                    <div class="news-summary">3700万美元合同用于开发Artemis登月任务的科学样本低温保存系统。</div>
+                    <a href="https://www.nasa.gov/news-release/nasa-awards-lunar-freezer-system-contract/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">⚡ NASA签署液态氢供应大单</div>
+                    <span class="news-source">NASA</span>
+                    <div class="news-summary">1.47亿美元合同保障深空探测燃料需求，覆盖多个NASA重要中心。</div>
+                    <a href="https://www.nasa.gov/news-release/nasa-awards-liquid-hydrogen-supply-contracts/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+
+                <div class="news-card">
+                    <div class="news-title">👨‍🚀 Scott Tingle任NASA首席宇航员</div>
+                    <span class="news-source">NASA</span>
+                    <div class="news-summary">经验丰富宇航员被任命为首席宇航员，将负责Artemis乘组选拔工作。</div>
+                    <a href="https://www.nasa.gov/news-release/nasas-scott-tingle-to-serve-as-agencys-chief-astronaut/" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+            </div>
+
+            <!-- 推荐10个深度选题 -->
+            <h2 class="section-title">🎯 推荐10个深度科学报道选题</h2>
+            <div class="priority-list">
+                
+                <!-- 第1选题：暗物质 -->
+                <div class="priority-item">
+                    <div class="priority-title">🌌 人类首次可能"看到"暗物质：银河系伽马射线改变宇宙认知</div>
+                    <div class="priority-meta">
+                        <div class="meta-item priority-score">推荐度：9.8/10</div>
+                        <div class="meta-item">📊 科学突破：⭐⭐⭐⭐⭐</div>
+                        <div class="meta-item">🆕 时代意义：⭐⭐⭐⭐⭐</div>
+                        <div class="meta-item">🌍 公众影响：⭐⭐⭐⭐</div>
+                    </div>
+                    
+                    <div class="reason-box">
+                        <div class="reason-title">🎯 推荐理由</div>
+                        <div class="reason-content">
+                            <strong>基础性：</strong>暗物质是宇宙组成的最大谜团，占宇宙质量约85%。这一发现可能是人类首次通过电磁辐射间接"看到"暗物质，为WIMP理论提供最强证据，可能改写物理学教科书。
+                            
+                            <strong>新颖性：</strong>日本东京大学Tomonori Totani教授通过分析费米望远镜10年数据，在10-100 GeV能谱范围内发现与WIMP湮灭完美吻合的过量辐射。这是暗物质探测史上的重大突破。
+                            
+                            <strong>传播性：</strong>暗物质是公众最关注的科学谜题之一，"看到暗物质"概念直观易懂。从1933年兹威基首次发现至今，90年探索终现曙光，具有极强的故事性和科学普及价值。
+                        </div>
+                    </div>
+                    
+                    <div class="history-box">
+                        <div class="reason-title">📚 历史背景</div>
+                        <div class="reason-content">
+                            暗物质概念可追溯到1933年，加州理工学院天文学家弗里茨·兹威基研究后发座星系团时发现，星系运动速度远超可见物质引力所能解释，首次提出"暗物质"假说。此后数十年，通过星系旋转曲线、引力透镜、宇宙微波背景辐射等多种观测手段，暗物质存在证据不断累积。但直接或间接探测暗物质粒子一直是物理学界的"圣杯"。WIMP（弱相互作用大质量粒子）理论提出已超过40年，这是首次有观测数据如此明确地支持该理论。
+                        </div>
+                    </div>
+                    
+                    <div class="score-breakdown">
+                        <div class="score-item">
+                            <div class="score-label">科学价值</div>
+                            <div class="score-value">10/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">创新程度</div>
+                            <div class="score-value">10/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">影响范围</div>
+                            <div class="score-value">9/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">深度潜力</div>
+                            <div class="score-value">10/10</div>
+                        </div>
+                    </div>
+                    
+                    <div class="related-links">
+                        <strong>🔗 相关报道：</strong>
+                        <a href="https://physicsworld.com/a/galactic-gamma-rays-could-point-to-dark-matter/" target="_blank" class="related-link">Physics World - 银河伽马射线指向暗物质</a>
+                    </div>
+                </div>
+
+                <!-- 第2选题：AI选举影响 -->
+                <div class="priority-item">
+                    <div class="priority-title">🤖 AI聊天机器人悄然改变选举：10个百分点的民主威胁</div>
+                    <div class="priority-meta">
+                        <div class="meta-item priority-score">推荐度：9.5/10</div>
+                        <div class="meta-item">📊 社会影响：⭐⭐⭐⭐⭐</div>
+                        <div class="meta-item">🆕 时效紧迫：⭐⭐⭐⭐⭐</div>
+                        <div class="meta-item">🌍 公众关注：⭐⭐⭐⭐⭐</div>
+                    </div>
+                    
+                    <div class="reason-box">
+                        <div class="reason-title">🎯 推荐理由</div>
+                        <div class="reason-content">
+                            <strong>基础性：</strong>这是首个大规模AI政治影响的实证研究，三国6000名选民的严谨实验为AI对民主制度威胁提供了量化证据，改变了过去只有理论担忧的状况。
+                            
+                            <strong>新颖性：</strong>研究方法创新，在真实选举环境中测试AI说服效果。发现AI影响力超传统广告4倍，且信息量与说服力成正比，但虚假信息同步增加。
+                            
+                            <strong>传播性：</strong>直接关系到每个选民的民主权利，涉及政治、技术、伦理多重维度。在2024年全球大选年背景下，具有极强时效性和公众关注度。
+                        </div>
+                    </div>
+                    
+                    <div class="history-box">
+                        <div class="reason-title">📚 历史背景</div>
+                        <div class="reason-content">
+                            AI与政治的融合始于2016年剑桥分析事件，当时主要基于社交媒体数据分析进行精准广告投放。2020年大选期间出现deepfake技术担忧，但影响有限。ChatGPT等大型语言模型2022年底问世后，AI具备真正的对话和说服能力。本研究发表于《自然》和《科学》同时，是AI政治影响力研究的转折点，标志着从"被动信息传播"进入"主动说服时代"。
+                        </div>
+                    </div>
+                    
+                    <div class="score-breakdown">
+                        <div class="score-item">
+                            <div class="score-label">社会价值</div>
+                            <div class="score-value">10/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">创新程度</div>
+                            <div class="score-value">9/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">影响范围</div>
+                            <div class="score-value">10/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">深度潜力</div>
+                            <div class="score-value">9/10</div>
+                        </div>
+                    </div>
+                    
+                    <div class="related-links">
+                        <strong>🔗 相关报道：</strong>
+                        <a href="https://www.nature.com/articles/d41586-025-03975-9" target="_blank" class="related-link">Nature - AI聊天机器人影响选民</a>
+                        <a href="https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/" target="_blank" class="related-link">MIT Tech Review - AI选举说服时代来临</a>
+                        <a href="https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/" target="_blank" class="related-link">MIT Tech Review - AI影响效果研究</a>
+                    </div>
+                </div>
+
+                <!-- 第3选题：卫星污染 -->
+                <div class="priority-item">
+                    <div class="priority-title">🛰️ 96%图像被毁：卫星星座正在"谋杀"天文学</div>
+                    <div class="priority-meta">
+                        <div class="meta-item priority-score">推荐度：9.2/10</div>
+                        <div class="meta-item">📊 科学影响：⭐⭐⭐⭐</div>
+                        <div class="meta-item">🆕 冲突显著：⭐⭐⭐⭐⭐</div>
+                        <div class="meta-item">🌍 公众关切：⭐⭐⭐⭐</div>
+                    </div>
+                    
+                    <div class="reason-box">
+                        <div class="reason-title">🎯 推荐理由</div>
+                        <div class="reason-content">
+                            <strong>基础性：</strong>NASA艾姆斯研究中心的严谨模拟显示，56万颗卫星将导致哈勃等主要望远镜96%图像受污染，威胁人类探索宇宙的基本能力。
+                            
+                            <strong>新颖性：</strong>首次量化评估卫星星座对天文学的具体影响，从抽象担忧升级为精确数据。发现小行星监测等关键功能面临威胁，具有安全意义。
+                            
+                            <strong>传播性：</strong>涉及SpaceX、Amazon等知名企业，商业利益与科学价值的经典冲突。关乎每个人享受科学成果的权利，太空探索公共属性的讨论。
+                        </div>
+                    </div>
+                    
+                    <div class="history-box">
+                        <div class="reason-title">📚 历史背景</div>
+                        <div class="reason-content">
+                            太空天文学始于1960年代的轨道太阳天文台，哈勃望远镜1990年发射标志着黄金时代。2019年SpaceX首批60颗Starlink卫星升空时，天文学家首次注意到严重光污染。此后卫星数量指数增长，从几千颗计划到数万颗。Nature这篇研究是首个系统性评估，显示问题比预期严重得多，标志着天文学与商业航天进入冲突阶段。
+                        </div>
+                    </div>
+                    
+                    <div class="score-breakdown">
+                        <div class="score-item">
+                            <div class="score-label">科学价值</div>
+                            <div class="score-value">9/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">冲突程度</div>
+                            <div class="score-value">10/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">影响范围</div>
+                            <div class="score-value">8/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">深度潜力</div>
+                            <div class="score-value">9/10</div>
+                        </div>
+                    </div>
+                    
+                    <div class="related-links">
+                        <strong>🔗 相关报道：</strong>
+                        <a href="https://www.nature.com/articles/d41586-025-03953-1" target="_blank" class="related-link">Nature - 卫星群影响天文观测</a>
+                    </div>
+                </div>
+
+                <!-- 第4选题：基因伦理 -->
+                <div class="priority-item">
+                    <div class="priority-title">🧬 "选择理想宝宝"：基因筛选的伦理边界在哪里？</div>
+                    <div class="priority-meta">
+                        <div class="meta-item priority-score">推荐度：8.8/10</div>
+                        <div class="meta-item">📊 伦理挑战：⭐⭐⭐⭐⭐</div>
+                        <div class="meta-item">🆕 商业创新：⭐⭐⭐⭐</div>
+                        <div class="meta-item">🌍 社会争议：⭐⭐⭐⭐</div>
+                    </div>
+                    
+                    <div class="reason-box">
+                        <div class="reason-title">🎯 推荐理由</div>
+                        <div class="reason-content">
+                            <strong>基础性：</strong>从实验室走向大众消费的基因筛选技术，面临从"治疗疾病"到"选择特质"的伦理跨越，涉及人类生殖权利、基因歧视、社会平等等根本问题。
+                            
+                            <strong>新颖性：</strong>Nucleus Genomics在纽约地铁的广告活动将充满伦理争议的基因特质筛选包装成可追求的生活方式，商业化模式首次大规模推广。
+                            
+                            <strong>传播性：</strong>关系每个家庭，触及"生儿育女"这一最基本人类需求。基因决定论vs环境论的辩论，具有强烈的社会讨论价值。
+                        </div>
+                    </div>
+                    
+                    <div class="history-box">
+                        <div class="reason-title">📚 历史背景</div>
+                        <div class="reason-content">
+                            基因检测伦理争议始于1970年代的DNA重组技术。1990年代人类基因组计划启动时即有"设计婴儿"担忧。2018年贺建奎基因编辑婴儿事件引发全球谴责。但PGT（胚胎植入前遗传学检测）在医疗领域已相对成熟。这次的不同在于从"治病"转向"择优"，从临床应用转向消费级推广，伦理边界再次被挑战。
+                        </div>
+                    </div>
+                    
+                    <div class="score-breakdown">
+                        <div class="score-item">
+                            <div class="score-label">伦理价值</div>
+                            <div class="score-value">10/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">创新程度</div>
+                            <div class="score-value">8/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">影响范围</div>
+                            <div class="score-value">8/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">深度潜力</div>
+                            <div class="score-value">9/10</div>
+                        </div>
+                    </div>
+                    
+                    <div class="related-links">
+                        <strong>🔗 相关报道：</strong>
+                        <a href="https://www.technologyreview.com/2025/12/05/1128755/selling-the-sizzle-of-trait-discrimination/" target="_blank" class="related-link">MIT Tech Review - 基因特征筛选广告争议</a>
+                    </div>
+                </div>
+
+                <!-- 第5选题：AI医疗突破 -->
+                <div class="priority-item">
+                    <div class="priority-title">🏥 医疗AI革命：生成式AI超越人类专家</div>
+                    <div class="priority-meta">
+                        <div class="meta-item priority-score">推荐度：8.5/10</div>
+                        <div class="meta-item">📊 技术突破：⭐⭐⭐⭐⭐</div>
+                        <div class="meta-item">🆕 临床应用：⭐⭐⭐⭐</div>
+                        <div class="meta-item">🌍 健康影响：⭐⭐⭐⭐</div>
+                    </div>
+                    
+                    <div class="reason-box">
+                        <div class="reason-title">🎯 推荐理由</div>
+                        <div class="reason-content">
+                            <strong>基础性：</strong>CytoDiffusion模型检测血细胞异常准确率首次超越人类专家，标志AI医疗诊断从辅助工具升级为可能的主角。
+                            
+                            <strong>新颖性：</strong>生成式AI在专业医疗领域达到人类水平，从图像识别走向复杂诊断推理，技术跨越式发展。
+                            
+                            <strong>传播性：</strong>直接关系每个人的健康权益，AI能否信任、如何监管是公众最关心的医疗科技话题。
+                        </div>
+                    </div>
+                    
+                    <div class="history-box">
+                        <div class="reason-title">📚 历史背景</div>
+                        <div class="reason-content">
+                            AI医疗应用始于1970年代的专家系统，但受限于算力和数据。深度学习革命后，2017年Google AI在视网膜疾病诊断中首次达到专家水平。但生成式AI的突破带来了新的可能，不仅能识别，还能推理和解释。CytoDiffusion代表了AI医疗应用的第三波浪潮。
+                        </div>
+                    </div>
+                    
+                    <div class="score-breakdown">
+                        <div class="score-item">
+                            <div class="score-label">医疗价值</div>
+                            <div class="score-value">9/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">技术突破</div>
+                            <div class="score-value">9/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">影响范围</div>
+                            <div class="score-value">7/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">深度潜力</div>
+                            <div class="score-value">8/10</div>
+                        </div>
+                    </div>
+                    
+                    <div class="related-links">
+                        <strong>🔗 相关报道：</strong>
+                        <a href="https://physicsworld.com/a/generative-ai-model-detects-blood-cell-abnormalities/" target="_blank" class="related-link">Physics World - 生成式AI检测血细胞异常</a>
+                    </div>
+                </div>
+
+                <!-- 第6选题：罗马望远镜 -->
+                <div class="priority-item">
+                    <div class="priority-title">🔭 罗马空间望远镜：下一代宇宙探索者就绪</div>
+                    <div class="priority-meta">
+                        <div class="meta-item priority-score">推荐度：8.2/10</div>
+                        <div class="meta-item">📊 技术成就：⭐⭐⭐⭐⭐</div>
+                        <div class="meta-item">🆕 科学潜力：⭐⭐⭐⭐</div>
+                        <div class="meta-item">🌍 公众关注：⭐⭐⭐</div>
+                    </div>
+                    
+                    <div class="reason-box">
+                        <div class="reason-title">🎯 推荐理由</div>
+                        <div class="reason-content">
+                            <strong>基础性：</strong>继哈勃、韦伯后NASA第三台旗舰空间望远镜完成建造，将开启宽视场天文观测新时代，对暗能量、系外行星等重大科学问题具有重要意义。
+                            
+                            <strong>新颖性：</strong>革命性的宽视场仪器设计，观测效率比现有设备高100倍，技术指标跨越式提升。
+                            
+                            <strong>传播性：</strong>人类探索宇宙的新里程碑，"看更远宇宙"的故事性，与公众对太空探索的天然兴趣。
+                        </div>
+                    </div>
+                    
+                    <div class="history-box">
+                        <div class="reason-title">📚 历史背景</div>
+                        <div class="reason-content">
+                            空间望远镜发展史：1990年哈勃开启黄金时代，2021年韦伯将红外观测推向新高度。罗马望远镜原称WFIRST，2012年提出，2020年以NASA首位女性天文学家南希·格雷斯·罗马命名。其特点是视场比哈勃大100倍，能在短时间内覆盖大片天区，是天文学调查工具的革命。
+                        </div>
+                    </div>
+                    
+                    <div class="score-breakdown">
+                        <div class="score-item">
+                            <div class="score-label">科学价值</div>
+                            <div class="score-value">9/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">技术突破</div>
+                            <div class="score-value">8/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">影响范围</div>
+                            <div class="score-value">7/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">深度潜力</div>
+                            <div class="score-value">8/10</div>
+                        </div>
+                    </div>
+                    
+                    <div class="related-links">
+                        <strong>🔗 相关报道：</strong>
+                        <a href="https://www.nasa.gov/news/recently-published/" target="_blank" class="related-link">NASA - 罗马空间望远镜建造完成</a>
+                    </div>
+                </div>
+
+                <!-- 第7选题：疫苗突破 -->
+                <div class="priority-item">
+                    <div class="priority-title">💊 过敏疫苗突破：一针预防致命反应</div>
+                    <div class="priority-meta">
+                        <div class="meta-item priority-score">推荐度：7.8/10</div>
+                        <div class="meta-item">📊 医学价值：⭐⭐⭐⭐</div>
+                        <div class="meta-item">🆕 技术创新：⭐⭐⭐⭐</div>
+                        <div class="meta-item">🌍 公众需求：⭐⭐⭐⭐</div>
+                    </div>
+                    
+                    <div class="reason-box">
+                        <div class="reason-title">🎯 推荐理由</div>
+                        <div class="reason-content">
+                            <strong>基础性：</strong>小鼠实验显示实验性疫苗可提供比现有疗法更持久的过敏保护，可能改变过敏症治疗范式。
+                            
+                            <strong>新颖性：</strong>新型疫苗技术机制创新，从症状控制转向免疫耐受重建，治疗思路的根本转变。
+                            
+                            <strong>传播性：</strong>过敏影响数亿人，致命过敏反应威胁生命安全，公众对有效治疗需求强烈。
+                        </div>
+                    </div>
+                    
+                    <div class="history-box">
+                        <div class="reason-title">📚 历史背景</div>
+                        <div class="reason-content">
+                            过敏治疗史：1911年脱敏疗法出现，1950年代抗组胺药物发明，现代主要依靠避免接触和症状控制。疫苗法免疫治疗一直存在，但效果有限。这项新技术可能首次实现真正的预防和根治。
+                        </div>
+                    </div>
+                    
+                    <div class="score-breakdown">
+                        <div class="score-item">
+                            <div class="score-label">医学价值</div>
+                            <div class="score-value">8/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">创新程度</div>
+                            <div class="score-value">8/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">影响范围</div>
+                            <div class="score-value">7/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">深度潜力</div>
+                            <div class="score-value">8/10</div>
+                        </div>
+                    </div>
+                    
+                    <div class="related-links">
+                        <strong>🔗 相关报道：</strong>
+                        <a href="https://www.nature.com/articles/d41586-025-03960-2" target="_blank" class="related-link">Nature - 实验性过敏疫苗</a>
+                    </div>
+                </div>
+
+                <!-- 第8选题：中微子观测 -->
+                <div class="priority-item">
+                    <div class="priority-title">🔬 中国JUNO中微子观测站建成：质量顺序之谜</div>
+                    <div class="priority-meta">
+                        <div class="meta-item priority-score">推荐度：7.5/10</div>
+                        <div class="meta-item">📊 科学价值：⭐⭐⭐⭐</div>
+                        <div class="meta-item">🆕 技术成就：⭐⭐⭐⭐</div>
+                        <div class="meta-item">🌍 国际影响：⭐⭐⭐</div>
+                    </div>
+                    
+                    <div class="reason-box">
+                        <div class="reason-title">🎯 推荐理由</div>
+                        <div class="reason-content">
+                            <strong>基础性：</strong>中微子质量顺序是粒子物理学重大未解之谜，JUNO观测站建成标志着人类向这一基础科学问题迈出重要一步。
+                            
+                            <strong>新颖性：</strong>中国大型科研设施建设的里程碑，地下700米的复杂工程，液体闪烁体探测技术的先进应用。
+                            
+                            <strong>传播性：</strong>中国在基础科学领域的重大投入，国际科研合作的典范，具有科技强国建设的象征意义。
+                        </div>
+                    </div>
+                    
+                    <div class="history-box">
+                        <div class="reason-title">📚 历史背景</div>
+                        <div class="reason-content">
+                            中微子研究始于1956年首次探测，2015年诺贝尔奖授予中微子振荡发现。但质量顺序问题仍未解决，这是理解粒子物理标准模型之外物理的关键。JUNO（江门中微子实验站）2015年启动，耗时10年建成，是中国在粒子物理领域的重大投资。
+                        </div>
+                    </div>
+                    
+                    <div class="score-breakdown">
+                        <div class="score-item">
+                            <div class="score-label">科学价值</div>
+                            <div class="score-value">9/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">技术成就</div>
+                            <div class="score-value">8/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">影响范围</div>
+                            <div class="score-value">6/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">深度潜力</div>
+                            <div class="score-value">7/10</div>
+                        </div>
+                    </div>
+                    
+                    <div class="related-links">
+                        <strong>🔗 相关报道：</strong>
+                        <a href="https://physicsworld.com/a/scientists-in-china-celebrate-the-completion-of-the-underground-juno-neutrino-observatory/" target="_blank" class="related-link">Physics World - JUNO中微子观测站建成</a>
+                    </div>
+                </div>
+
+                <!-- 第9选题：AI地热发现 -->
+                <div class="priority-item">
+                    <div class="priority-title">🌍 AI发现隐藏地热：清洁能源新希望</div>
+                    <div class="priority-meta">
+                        <div class="meta-item priority-score">推荐度：7.2/10</div>
+                        <div class="meta-item">📊 能源价值：⭐⭐⭐⭐</div>
+                        <div class="meta-item">🆕 技术创新：⭐⭐⭐⭐</div>
+                        <div class="meta-item">🌍 环境影响：⭐⭐⭐</div>
+                    </div>
+                    
+                    <div class="reason-box">
+                        <div class="reason-title">🎯 推荐理由</div>
+                        <div class="reason-content">
+                            <strong>基础性：</strong>AI驱动的地热勘探突破传统方法限制，30年来首个"盲区"地热资源发现，为清洁能源开发开辟新路径。
+                            
+                            <strong>新颖性：</strong>Zanskar公司将AI与传统勘探结合，在沙漠中发现121°C高温地热储层，技术模式创新。
+                            
+                            <strong>传播性：</strong>清洁能源转型背景下，地热能的稳定性和清洁性具有独特优势，AI跨界应用的成功案例。
+                        </div>
+                    </div>
+                    
+                    <div class="history-box">
+                        <div class="reason-title">📚 历史背景</div>
+                        <div class="reason-content">
+                            地热发电始于1904年意大利，但传统勘探依赖大量钻井，成本高效率低。AI技术近年来在能源勘探领域应用增多，但重大突破较少。这次发现标志着AI在自然资源勘探中的成熟应用。
+                        </div>
+                    </div>
+                    
+                    <div class="score-breakdown">
+                        <div class="score-item">
+                            <div class="score-label">能源价值</div>
+                            <div class="score-value">8/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">创新程度</div>
+                            <div class="score-value">8/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">影响范围</div>
+                            <div class="score-value">6/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">深度潜力</div>
+                            <div class="score-value">7/10</div>
+                        </div>
+                    </div>
+                    
+                    <div class="related-links">
+                        <strong>🔗 相关报道：</strong>
+                        <a href="https://www.technologyreview.com/2025/12/04/1128763/ai-geothermal-zanskar/" target="_blank" class="related-link">MIT Tech Review - AI发现隐藏地热</a>
+                    </div>
+                </div>
+
+                <!-- 第10选题：NASA艾美奖 -->
+                <div class="priority-item">
+                    <div class="priority-title">🏆 NASA获艾美奖：科学传播的新高度</div>
+                    <div class="priority-meta">
+                        <div class="meta-item priority-score">推荐度：6.8/10</div>
+                        <div class="meta-item">📊 传播创新：⭐⭐⭐⭐</div>
+                        <div class="meta-item">🆕 技术成就：⭐⭐⭐</div>
+                        <div class="meta-item">🌍 公众影响：⭐⭐⭐</div>
+                    </div>
+                    
+                    <div class="reason-box">
+                        <div class="reason-title">🎯 推荐理由</div>
+                        <div class="reason-content">
+                            <strong>基础性：</strong>NASA因日全食直播技术获艾美奖，代表科学传播与娱乐技术的融合，展示科普传播的新可能性。
+                            
+                            <strong>新颖性：</strong>科学机构获得主流娱乐技术奖项罕见，体现了科学可视化和技术传播的创新突破。
+                            
+                            <strong>传播性：</strong>科学传播的成功案例，提升公众对空间科学的兴趣，展现科技传播的专业水准。
+                        </div>
+                    </div>
+                    
+                    <div class="history-box">
+                        <div class="reason-title">📚 历史背景</div>
+                        <div class="reason-content">
+                            科学传播史：从阿波罗登月电视直播到现代VR体验，NASA一直是科学传播先锋。获得艾美奖是科学传播进入主流视野的重要标志，体现科学与娱乐的跨界融合。
+                        </div>
+                    </div>
+                    
+                    <div class="score-breakdown">
+                        <div class="score-item">
+                            <div class="score-label">传播价值</div>
+                            <div class="score-value">8/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">创新程度</div>
+                            <div class="score-value">7/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">影响范围</div>
+                            <div class="score-value">5/10</div>
+                        </div>
+                        <div class="score-item">
+                            <div class="score-label">深度潜力</div>
+                            <div class="score-value">7/10</div>
+                        </div>
+                    </div>
+                    
+                    <div class="related-links">
+                        <strong>🔗 相关报道：</strong>
+                        <a href="https://www.nasa.gov/news/recently-published/" target="_blank" class="related-link">NASA - 艾美奖获奖</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
