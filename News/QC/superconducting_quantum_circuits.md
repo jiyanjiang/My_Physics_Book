@@ -1,6 +1,12 @@
 # Superconducting quantum circuits: At the heart of the 2025 Nobel Prize in Physics
 
 
+PT 42, Jan 2026 
+
+https://physicstoday.aip.org/features/superconducting-quantum-circuits-at-the-heart-of-the-2025-nobel-prize-in-physics
+
+
+
 Although motivated by the fundamental exploration of the weirdness of the quantum world, the prizewinning experiments have led to a promising branch of quantum computing technology.
 
 _Johanna L. Miller_
